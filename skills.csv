@@ -1,0 +1,84 @@
+skl_trade|Trade{***}
+skl_trade_desc|Every point in this skill reduces your trade penalty by 5%%. (Party skill){***}
+skl_leadership|Leadership{***}
+skl_leadership_desc|Every point increases maximum size of your company by 5, increases the morale of your troops and reduces their wages by 5%%. High Leadership attracts more volunteers to your army. (Leader skill){***}
+skl_prisoner_management|Prisoner Management{***}
+skl_prisoner_management_desc|Every point in this skill increases your fleet's maximum capacity to transport prisoners by %d%%. Increases your prisoner limit on land. (Leader skill){***}
+skl_reserved_1|Reserved Skill 1{***}
+skl_reserved_1_desc|This is a reserved skill.{***}
+skl_reserved_2|Reserved Skill 2{***}
+skl_reserved_2_desc|This is a reserved skill.{***}
+skl_reserved_3|Reserved Skill 3{***}
+skl_reserved_3_desc|This is a reserved skill.{***}
+skl_reserved_4|Reserved Skill 4{***}
+skl_reserved_4_desc|This is a reserved skill.{***}
+skl_persuasion|Persuasion{***}
+skl_persuasion_desc|This skill helps you make other people accept your point of view. It also lowers the minimum level of relationship needed to get other people to do what you want. (Personal skill){***}
+skl_engineer|Engineer{***}
+skl_engineer_desc|This skill allows you to construct siege equipment and settlement improvements more efficiently. A skilled engineer can reinforce the hull of his vessel and repair it better when at sea. (Party skill){***}
+skl_first_aid|First Aid{***}
+skl_first_aid_desc|Every point in this skill helps the characters regain 5%% of hit points lost in battle. (Party skill){***}
+skl_surgery|Surgery{***}
+skl_surgery_desc|Every point in this skill helps the characters regain 5%% of hit points lost in battle. With every point, each party member gets a 4%% chance to be knocked out with an otherwise mortal blow. (Party skill){***}
+skl_wound_treatment|Herbalism{***}
+skl_wound_treatment_desc|Party healing speed is increased by 20%% per point in this skill. (Party skill){***}
+skl_inventory_management|Inventory Management{***}
+skl_inventory_management_desc|Increases the capacity of your inventory by 6 slots per skill level. Increases your supply train capacity. (Leader skill){***}
+skl_spotting|Spotting{***}
+skl_spotting_desc|The sighting range of the company is increased by 10%% per skill level. Tracks left by the parties passing over the strategic map become more informative. (Party skill){***}
+skl_pathfinding|Path-finding{***}
+skl_pathfinding_desc|The skill of finding a good route of march.  Speeds up land movement of the party by 3%% per skill level. (Party skill){***}
+skl_tactics|Tactics{***}
+skl_tactics_desc|Affects the maximum number of field cannons available to the player. (Party skill){***}
+skl_tracking|Tracking{***}
+skl_tracking_desc|The sighting range of the company is increased by 10%% per skill level. Tracks left by the parties passing over the strategic map become more informative. (Party skill){***}
+skl_trainer|Trainer{***}
+skl_trainer_desc|Every day, each officer with this skill adds some experience to every other member of the company whose level is lower than his. Experience gained goes as: {0,4,10,16,23,30,38,46,55,65,80}. (Personal skill){***}
+skl_artillery_command|Battery command{***}
+skl_artillery_command_desc|Every odd point in this skill increases the maximum number of field cannons available to player by 1. This skill also lowers the cost of cannons and improves their survivability (Party skill){***}
+skl_reserved_6|Reserved Skill 6{***}
+skl_reserved_6_desc|This is a reserved skill.{***}
+skl_reserved_7|Reserved Skill 7{***}
+skl_reserved_7_desc|This is a reserved skill.{***}
+skl_reserved_8|Reserved Skill 8{***}
+skl_reserved_8_desc|This is a reserved skill.{***}
+skl_looting|Looting{***}
+skl_looting_desc|This skill increases the amount of loot obtained after battles by 10%% per skill level. (Party skill){***}
+skl_horse_archery|Harquebusier{***}
+skl_horse_archery_desc|Reduces damage and accuracy penalties for shooting and throwing from horseback. (Personal skill){***}
+skl_riding|Riding{***}
+skl_riding_desc|Allows to ride better horses and increases your riding speed and manuevering value. (Personal skill){***}
+skl_athletics|Athletics{***}
+skl_athletics_desc|Improves your running speed. (Personal skill){***}
+skl_shield|Shield{***}
+skl_shield_desc|Reduces damage to shields (by 8%% per skill level) and improves shield speed and coverage. (Personal skill){***}
+skl_weapon_master|Weapon Master{***}
+skl_weapon_master_desc|Makes it easier to learn weapon proficiencies and increases the proficiency limits. Limits go as: 60, 100, 140, 180, 220, 260, 300, 340, 380, 420. (Personal skill){***}
+skl_reserved_9|Reserved Skill 9{***}
+skl_reserved_9_desc|This is a reserved skill.{***}
+skl_reserved_10|Reserved Skill 10{***}
+skl_reserved_10_desc|This is a reserved skill.{***}
+skl_reserved_11|Reserved Skill 11{***}
+skl_reserved_11_desc|This is a reserved skill.{***}
+skl_reserved_12|Reserved Skill 12{***}
+skl_reserved_12_desc|This is a reserved skill.{***}
+skl_navigation|Navigation{***}
+skl_navigation_desc|The fine art of getting a sailing ship from place to place, reading charts and accurately determining one's position.  Speeds up party movement by 3%% per level while at sea. (Party skill){***}
+skl_power_draw|Precise Shot{***}
+skl_power_draw_desc|Each point in this skill gives a 3%% chance to critically shoot a target through, dealing double damage. (Personal skill){***}
+skl_power_throw|Grenade Throwing{***}
+skl_power_throw_desc|Each point in this skill increases throwing damage by 10%%. Moreover, the area of explosion increases by 1 for every 2 levels. (Personal skill){***}
+skl_power_strike|Power Strike{***}
+skl_power_strike_desc|Each point to this skill increases melee damage by 8%%. (Personal skill){***}
+skl_ironflesh|Ironflesh{***}
+skl_ironflesh_desc|Each point to this skill increases hit points by +2. (Personal skill){***}
+skl_reserved_14|Reserved Skill 14{***}
+skl_reserved_14_desc|This is a reserved skill.{***}
+skl_gambling|Gambling{***}
+skl_gambling_desc|Increases your chance to successfully cheat in cards by 9%% per skill level. (Personal skill){***}
+skl_seafaring|Seafaring{***}
+skl_seafaring_desc|Increases the speed and maneuverability of the ship under your command by 5%% per point of the skill. (Personal skill){***}
+skl_navalcombat|Naval Combat{***}
+skl_navalcombat_desc|Increases the damage and reloading speed of the ship's cannons by 5%% per point of the skill. (Personal skill){***}
+skl_fleetmaster|Fleetmaster{***}
+skl_fleetmaster_desc|Allows the character to control larger vessels without a 10%% penalty per one rank of the ship. Moreover, each point of the skill above the ship's rank increases its performance by 2%%. (Personal skill){***}

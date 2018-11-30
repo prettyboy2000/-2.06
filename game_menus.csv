@@ -1,0 +1,1364 @@
+menu_start_game_0|Select your gender:{***}
+mno_start_game_0_start_normal|Male{***}
+mno_start_pro|Female{***}
+menu_start_phase_2|{s10}{***}
+mno_exit_to_map|Enter the Caribbean!{***}
+mno_tutorial_cheat|CHEAT!{***}
+menu_start_game_3|Choose your scenario:{***}
+mno_go_back|Go back{***}
+menu_tutorial|You approach a field where the locals are training with weapons. You can practice here to improve your combat skills.{***}
+mno_continue|Continue...{***}
+mno_go_back_dot|Go back.{***}
+menu_reports|Military rank: {s60}^{s62}^Business reputation: {s61}^Renown: {reg5}^Honor: {reg6}^^Company morale: {reg8}^Maximum company size: {reg7}^{s1}{***}
+mno_view_party_size_report|View company size report.{***}
+mno_view_weekly_budget_report|View weekly budget report.{***}
+mno_view_morale_report|View company morale report.{***}
+mno_view_letter_of_marque_report|View letter of marque report.{***}
+mno_view_affiliated_family_report|View affiliated family member / spouse report.{***}
+mno_view_faction_relations_report|View faction relations report.{***}
+mno_resume_travelling|Resume travelling.{***}
+menu_custom_battle_scene|(NO TRANS){***}
+menu_custom_battle_end|The battle is over. {s1} In the fighting, your troops have killed {reg5} enemies and lost {reg6} men. You slew {reg7} enemies personally.{***}
+menu_start_game_1|Choose your starting background and difficulty level:{***}
+mno_start_colonel|Retired officer (easy warrior){***}
+mno_start_merchant|Enterprising trader (easy merchant){***}
+mno_start_pirate|Dastardly pirate (medium){***}
+mno_start_convict|Escaped convict (hard){***}
+menu_start_character_1|You were born years ago, in a land far away. Your father was...{***}
+mno_start_noble|An impoverished noble.{***}
+mno_start_character_1_start_merchant|A travelling merchant.{***}
+mno_start_guard|A veteran warrior.{***}
+mno_start_forester|A hunter.{***}
+mno_start_character_1_start_nomad|A steppe nomad.{***}
+mno_start_thief|A thief.{***}
+menu_start_character_2|{s10}^^ You started to learn about the world almost as soon as you could walk and talk. You spent your early life as...{***}
+mno_page|A page at a nobleman's court.{***}
+mno_apprentice|A craftsman's apprentice.{***}
+mno_stockboy|A shop assistant.{***}
+mno_urchin|A street urchin.{***}
+mno_nomad|A steppe child.{***}
+menu_start_character_3|{s11}^^ Then, as a young adult, life changed as it always does. You became...{***}
+mno_squire|A squire.{***}
+mno_lady|A lady-in-waiting.{***}
+mno_troubadour|A troubadour.{***}
+mno_student|A university student.{***}
+mno_peddler|A goods peddler.{***}
+mno_craftsman|A smith.{***}
+mno_poacher|A game poacher.{***}
+menu_start_character_4|{s12}^^But soon everything changed and you decided to strike out on your own as an adventurer. What made you take this decision was...{***}
+mno_revenge|Personal revenge.{***}
+mno_death|The loss of a loved one.{***}
+mno_wanderlust|Wanderlust.{***}
+mno_disown|Being forced out of your home.{***}
+mno_greed|Lust for money and power.{***}
+menu_choose_skill|{s13}{***}
+mno_begin_adventuring|Become an adventurer and sail to the Caribbean.{***}
+menu_past_life_explanation|{s3}{***}
+mno_view_next|{s5}{***}
+menu_morale_report|{s1}{***}
+menu_letter_of_marque_report|{s1}{***}
+menu_courtship_relations|{s1}{***}
+menu_lord_relations|{s1}{***}
+mno_jump_to_dplmc_lord_relations_2|Display the player faction's captains and the numbers of settlements{***}
+menu_companion_report|{s7}{s1}{***}
+menu_character_report|{s9}{***}
+mno_character_report_continue5|Continue...{***}
+menu_party_size_report|{s1}{***}
+menu_faction_relations_report|{s1}{***}
+menu_camp|You set up camp. What do you want to do?{***}
+mno_camp_wait_here|Wait here for some time.{***}
+mno_choose_scene|Scene Chooser{***}
+mno_test_land_battle_af1|Test artillery field 1{***}
+mno_test_land_battle_af2|Test artillery field 2{***}
+mno_test_sea_assault|Test Sea assault{***}
+mno_test_land_battle_small|Test Land Battle Small{***}
+mno_fraction|Renown{***}
+mno_woman|Woman{***}
+mno_man|Man{***}
+mno_battle_camp|Battle camp{***}
+menu_camp_cheat|Select a cheat:{***}
+mno_camp_cheat_find_item|Find an item...{***}
+mno_camp_cheat_find_item1|Change weather...{***}
+menu_camp_action|Choose an action:{***}
+mno_camp_recruit_prisoners|Offer some of your prisoners to join your company.{***}
+mno_action_rename_kingdom|Rename your kingdom.{***}
+mno_action_change_vassal_title|Change the titulation of your nobles.{***}
+mno_action_examine_ship_decks|Walk upon the deck of your ship.{***}
+mno_action_examine_ship_match_1|Take a look from the foremast.{***}
+mno_action_examine_ship_match_2|Take a look from the main mast.{***}
+mno_action_retire|Retire from adventuring.{***}
+mno_camp_action_4|Back to camp menu.{***}
+menu_camp_recruit_prisoners|You offer your prisoners freedom if they agree to join you as soldiers. {s18}{***}
+mno_camp_recruit_prisoners_accept|Take them.{***}
+mno_camp_recruit_prisoners_reject|Reject them.{***}
+mno_camp_recruit_prisoners_continue|Go back.{***}
+menu_camp_no_prisoners|You have no prisoners to recruit from.{***}
+menu_retirement_verify|You are at day {reg0}. Your current luck is {reg1}. Are you sure you want to retire?{***}
+mno_retire_yes|Yes.{***}
+mno_retire_no|No.{***}
+menu_end_game|The decision is made, and you resolve to give up your adventurer'slife and settle down. You sell off your weapons and armour, gather upall your money, and ride off into the sunset....{***}
+mno_end_game_bye|Farewell.{***}
+menu_cattle_herd|You encounter a herd of cattle.{***}
+mno_cattle_drive_away|Drive the cattle onward.{***}
+mno_cattle_stop|Bring the herd to a stop.{***}
+mno_cattle_kill|Slaughter some of the animals.{***}
+mno_leave|Leave.{***}
+menu_cattle_herd_kill|How many animals do you want to slaughter?{***}
+mno_cattle_kill_1|One.{***}
+mno_cattle_kill_2|Two.{***}
+mno_cattle_kill_3|Three.{***}
+mno_cattle_kill_4|Four.{***}
+mno_cattle_kill_5|Five.{***}
+menu_arena_duel_fight|You and your opponent prepare for a duel.{***}
+menu_simple_encounter|{s2} You have {reg10} troops ready for battle against their {reg11}. {s4}{***}
+mno_simple_encounter_encounter_attack|Charge the enemy.{***}
+mno_encounter_order_attack|Order your troops to attack without you.{***}
+mno_encounter_leave|Leave.{***}
+mno_encounter_retreat|Pull back, leaving some soldiers behind to cover your retreat.{***}
+mno_encounter_surrender|Surrender.{***}
+mno_talk_lord|Negotiate.{***}
+menu_encounter_retreat_confirm|As the officer with the highest tactics skill ({reg2}), {reg3?you devise:{s3} devises} a plan that will allow you and your men to escape with your lives, but you'll have to leave {reg4} soldiers behind to stop the enemy from giving chase.{***}
+mno_leave_behind|Go on. The sacrifice of these men will save the rest.{***}
+mno_dont_leave_behind|No. We leave no one behind.{***}
+menu_encounter_retreat|You tell {reg4} of your troops to hold the enemy while you retreat with the rest of your party.{***}
+menu_order_attack_begin|Your troops prepare to attack the enemy.{***}
+mno_order_attack_begin|Order the attack to begin.{***}
+mno_call_back|Call them back.{***}
+menu_order_attack_2|{s4}^^Your casualties: {s8}^^Enemy casualties: {s9}{***}
+mno_order_attack_continue|Order your soldiers to resume the attack.{***}
+mno_order_retreat|Call your soldiers back.{***}
+menu_battle_debrief|{s11}^^Your Casualties:{s8}{s10}^^Enemy Casualties:{s9}{***}
+menu_total_victory|You shouldn't be reading this... {s9}{***}
+menu_enemy_slipped_away|{s17}{***}
+menu_permanent_damage|{s0}{***}
+mno_s0|{s0}{***}
+menu_pre_join|You come across a battle between {s2} and {s1}. You decide to...{***}
+mno_pre_join_help_attackers|Charge in to assist {s2}.{***}
+mno_pre_join_help_defenders|Hurry to help {s1}.{***}
+mno_pre_join_leave|Ignore them.{***}
+menu_join_battle|You have decided to get involved alongside {s2} against {s1}. You have {reg10} troops ready for battle against the enemy's {reg11}.{***}
+mno_join_attack|Charge the enemy.{***}
+mno_join_order_attack|Order your troops to join your allies while you stay back.{***}
+mno_join_leave|Leave.{***}
+menu_join_order_attack|{s4}^^Your casualties: {s8}^^Allied casualties: {s9}^^Enemy casualties: {s10}{***}
+menu_zendar|You enter the town of Zendar.{***}
+mno_zendar_enter| {***}
+mno_zendar_tavern| {***}
+mno_zendar_merchant| {***}
+mno_zendar_arena| {***}
+mno_town_1_leave| {***}
+menu_salt_mine|You enter the salt mine.{***}
+mno_enter|Enter.{***}
+menu_four_ways_inn|You arrive at the Four Ways Inn.{***}
+menu_test_scene|You enter the test scene.{***}
+mno_test_scene_enter|Enter 1.{***}
+mno_test_scene_enter1|Enter 2.{***}
+mno_test_scene_enter2|Enter 3.{***}
+mno_test_scene_enter3|Enter 4.{***}
+mno_test_scene_enter4|Enter 5.{***}
+mno_test_scene_enter5|Enter 6.{***}
+mno_test_scene_enter6|Enter 7.{***}
+mno_test_scene_enter7|Enter 8.{***}
+mno_test_scene_enter8|Enter 9.{***}
+menu_dhorak_keep|You enter the Dhorak Keep{***}
+menu_join_siege_outside|{s1} is being besieged by {s2}.{***}
+mno_approach_besiegers|Approach the siege camp.{***}
+mno_pass_through_siege|Pass through the siege lines and enter {s1}.{***}
+menu_cut_siege_without_fight|The besiegers permit you to approach the gates.{***}
+menu_besiegers_camp_with_allies|{s1} remains under siege. The banners of {s2} fly above the camp of the besiegers,where you and your men are welcomed. {s4}{***}
+mno_talk_to_siege_commander|Request a meeting with the commander.{***}
+mno_join_siege_with_allies|Join the next assault.{***}
+mno_join_siege_stay_back|Order your soldiers to join the next assault while you stay behind.{***}
+menu_castle_outside|You are outside {s2}. {s20}{s11} {s3} {s4}.{***}
+mno_approach_gates|Approach the gates and hail the guard.{***}
+mno_town_sneak|Disguise yourself and try to sneak into the {s7}.{***}
+mno_dplmc_riot_start_siege|Besiege the {reg6?town:town} to crush the rebellion.{***}
+mno_dplmc_riot_negotiate|Begin negotiations.{***}
+mno_castle_start_siege|Besiege the {reg6?town:town}.{***}
+mno_castle_leave|Leave.{***}
+menu_castle_guard|You approach the gate. The men on the walls watch you closely.{***}
+mno_request_shelter|Request entry to the fortress.{***}
+mno_request_meeting_commander|Request a meeting with someone.{***}
+mno_guard_leave|Leave.{***}
+menu_castle_entry_granted|After a brief wait, the guards open the gates for you and allow your company inside.{***}
+menu_castle_entry_denied|The governor of this town has forbidden you shelter inside these walls,and the guard sergeant informs you that his men will fire if you attempt to come any closer.{***}
+menu_castle_meeting|Who do you want to meet with?{***}
+mno_guard_meet_s5|{s5}.{***}
+mno_forget_it|Forget it.{***}
+menu_castle_meeting_selected|Your request for a meeting is relayed inside. After a while, {s6} comes out to speak with you.{***}
+menu_castle_besiege|You are laying siege to {s1}. {s2} {s3} {s4}{***}
+mno_build_ladders|Assault the walls with ladders.{***}
+mno_castle_lead_attack|Lead your soldiers in an assault.{***}
+mno_sa_lead_attack|Assault city from the sea.{***}
+mno_attack_stay_back|Order your soldiers to attack while you stay back...{***}
+mno_lift_siege|Abandon the siege.{***}
+menu_siege_attack_meets_sally|The defenders sally out to meet your assault.{***}
+menu_castle_besiege_inner_battle|{s1}{***}
+menu_construct_ladders|Judging by your skills, you will need {reg4} hours to prepare for an assault. Setting up the ladders may cost your army {s3} losses.{***}
+mno_build_ladders_cont|Construct the ladders.{***}
+menu_construct_siege_tower|As the officer with the highest Engineer skill ({reg2}), {reg3?you estimate:{s3} estimates} that building a siege tower will take{reg4} hours.{***}
+mno_build_siege_tower_cont|Start building.{***}
+menu_castle_attack_walls_simulate|{s4}^^Your casualties:{s8}^^Enemy casualties were: {s9}{***}
+menu_castle_attack_walls_with_allies_simulate|{s4}^^Your casualties: {s8}^^Allied casualties: {s9}^^Enemy casualties: {s10}{***}
+menu_castle_taken_by_friends|Nothing to see here.{***}
+menu_castle_taken|As the last defenders of {s3} fall dead or scatter to the four winds, uneasy silence descends on the streets. Shortly after, a somber procession carrying the white flag approaches your headquarters, headed by the town's guildmaster. On behalf of {s3}, he begs you to leave the town alone, promising to pay a tribute worth {reg3} piastres. You can accept this offering, or capture the town instead.{***}
+mno_dplmc_spoils_yourself|Take the tribute and vacate the town.{***}
+mno_castle_taken_continue|Annex the town.{***}
+menu_castle_taken_2|Your soldiers disperse the delegation and quickly secure control over the town. Soon, a new banner is raised over the ramparts of {s3}. {s10}{***}
+mno_castle_taken_claim|Request to govern {s3} from now on.{***}
+mno_castle_taken_no_claim|Continue...{***}
+menu_requested_castle_granted_to_player|You receive a message from {s3}.^^{reg4?She:He} has decided to appoint you a governor of {s2}{reg3? and the nearby village of {s4}:} in {reg4?her:his} name for as long as you remain {reg4?her:his} loyal officer.{***}
+menu_requested_castle_granted_to_player_husband|You receive a message from {s3}.^^{reg4?She:He} has decided to assign {s2}{reg3? and the nearby village of {s4}:} to your husband, {s7}, to govern.{***}
+menu_requested_castle_granted_to_another|You receive a message from {s3}.^^'My congratulations on your most recent victory at {s2}. The capture of this key port is vital to our campaign. As to your request to govern {s2} in my name from now on, I am afraid this cannot happen, for I believe {s5} is a more suitable candidate. To cover your military expenses and reward your effort, though, I am sending you {reg6} piastres as a token of my gratitude.'{***}
+mno_accept_decision|Accept the decision.{***}
+mno_leave_faction|This shall not stand!{***}
+menu_requested_castle_granted_to_another_female|You receive a message from {s3}.^^'My congratulations on your most recent victory at {s2}. The capture of this key port is vital to our campaign. As to your request to grant {s2} to your {wife/husband}, I am afraid this cannot happen, for I believe {s5} is a more suitable candidate. To cover your military expenses and reward your effort, though, I am sending you {reg6} piastres as a token of my gratitude.'{***}
+menu_leave_faction|Abandoning your service is not a slight that would go unpunished. Your ruler may condemn you and confiscate your offices and properties. However, if you return them willingly, he may let the betrayal go without a fight.{***}
+mno_leave_faction_give_back|Abandon service and give up your holdings.{***}
+mno_leave_faction_hold|Abandon service and keep your lands, including {s2}, to yourself.{***}
+mno_leave_faction_cancel|Remain loyal and accept the decision.{***}
+menu_give_center_to_player|Your lord offers to extend your duties!{s1} sends word that he is willing to assign {s2} to you to manage in payment for your loyal service,adding it to your holdings. What is your answer?{***}
+mno_give_center_to_player_accept|Accept the offer.{***}
+mno_give_center_to_player_reject|Reject. You have no interest in governing {s2}.{***}
+menu_give_center_to_player_2|With a brief ceremony, you are officially confirmed as the new governor of {s2}{reg3? and its bound village {s4}:}.You can now claim the rents and revenues from your personal estates there, draft soldiers from the populace,and manage the lands as you see fit.However, you are also expected to defend your settlement and your people from harm,as well as maintaining the rule of law and order.{***}
+menu_oath_fulfilled|You had a contract with {s1} to serve him for a certain duration.Your contract has now expired. What will you do?{***}
+mno_renew_oath|Renew your contract with {s1} for another month.{***}
+mno_dont_renew_oath|Become free of your bond.{***}
+menu_siege_started_defender|{s1} is about to assault the walls of {s2}. You have {reg10} troops ready for battle against the enemy's {reg11}. You decide to...{***}
+mno_dplmc_negotiate_with_besieger|Negotiate with the besieger.{***}
+mno_siege_defender_join_battle|Join the assault.{***}
+mno_siege_defender_troops_join_battle|Order your men to join the assault while you stay back.{***}
+menu_siege_join_defense|{s4}^^Your casualties: {s8}^^Allied casualties: {s9}^^Enemy casualties: {s10}{***}
+menu_enter_your_own_castle|{s10}{***}
+menu_village|{s11}^{s6}{***}
+mno_village_center|Enter the facility.{***}
+mno_village_buy_food|Ask to buy goods.{***}
+mno_village_hostile_action|Take a hostile action.{***}
+mno_village_leave|Leave...{***}
+menu_village_hostile_action|What do you intend to do?{***}
+mno_village_take_food|Demand the goods.{***}
+mno_village_loot|Put the facility to torch.{***}
+menu_recruit_volunteers|{s18}{***}
+mno_continue_not_enough_gold|I don't have enough money...{***}
+mno_recruit_them|Recruit them ({reg6} piastres).{***}
+menu_village_hunt_down_fugitive_defeated|The last thing you remember is excruciating pain in your head, then everything goes dark.Time passes. When you open your eyes again you find yourself battered and bloody,but none of the wounds appear to be lethal.{***}
+menu_village_infest_bandits_result|{s9}{***}
+menu_village_infestation_removed|After an epic confrontation, the villagers under your command drive the surviving outlaws out of the village.The villagers have little left in the way of wealth after their ordeal,but they offer you all they can find.{***}
+mno_village_bandits_defeated_accept|Take it as your just reward.{***}
+mno_village_bandits_defeated_cont|Refuse, for they need these items more than you do.{***}
+menu_center_manage|{s19}^{reg6?^^You arecurrently building {s7}. The building will be completed after {reg8} day{reg9?s:}.:}{***}
+mno_center_build_manor|Build a manor.{***}
+mno_center_build_fish_pond|Build a mill.{***}
+mno_center_build_watch_tower|Build a watch tower.{***}
+mno_center_build_school|Build a school.{***}
+mno_center_build_messenger_post|Build a messenger post.{***}
+mno_center_build_prisoner_tower|Build a prison.{***}
+menu_center_improve|{s19} As the officer with the highest engineer skill ({reg2}), {reg3?you reckon:{s3} reckons} that constructing the {s4} will cost you{reg5} piastres and will take {reg6} days.{***}
+mno_dplmc_improve_cont|Go on. (Pay from treasury){***}
+mno_improve_cont|Go on.{***}
+mno_improve_not_enough_gold|I don't have enough money for that.{***}
+menu_town_bandits_failed|{s4} {s5}{***}
+menu_town_bandits_succeeded|The bandits fall before you as wheat to a scythe! Soon you stand alone in the streetswhile most of your attackers lie unconscious, dead or dying.Searching the bodies, you find a purse which must have belonged to a previous victim of these brutes.Or perhaps, it was given to them by someone who wanted to arrange a suitable ending to your life.{***}
+menu_village_steal_cattle_confirm|As the officer with the highest looting skill ({reg2}), {reg3?you reckon:{s1} reckons} that you can steal as many as {reg4} heads of village's cattle.{***}
+mno_village_steal_cattle_confirm|Go on.{***}
+menu_village_steal_cattle|{s1}{***}
+menu_village_take_food_confirm|It will take some time to disarm the guards and coerce the manager to hand you the goods. You think you will need at least one hour.{***}
+mno_village_take_food_confirm|Go ahead.{***}
+menu_village_take_food|Eventually the grumbling guards and workers unload the goods for you to take.{***}
+mno_take_supplies|Take the goods.{***}
+mno_let_them_keep_it|Let them keep it.{***}
+menu_village_start_attack|The guards fully intend to protect the facility from plunder and its workforce from being freed.This is going to end up in blood.{***}
+mno_village_raid_attack|Kill them all.{***}
+mno_village_raid_leave|Leave the facility alone.{***}
+menu_village_loot_no_resist|The guards opt not to put up any resistance and quickly scatter to the winds. The facility is yours to pillage.{***}
+menu_village_loot_complete|Your soldiers plunder the warehouses, free the surviving slaves and set fire to buildings. Your share of loot is estimated to be {reg1} piastres.{***}
+menu_village_loot_defeat|The guards displayed uncharacteristic determination, eventually driving your troops away.{***}
+menu_village_loot_continue|Do you wish to continue pillaging this facility?{***}
+mno_disembark_yes|Yes.{***}
+mno_disembark_no|No.{***}
+menu_close|Nothing.{***}
+menu_town|{s10} {s14}^{s11}{s12}{s13} {s20} {s21}{***}
+mno_visit_main_square|Visit the main square.{***}
+mno_town_shipyard|Go to the harbor.{***}
+mno_trade_with_merchants|Visit the market square.{***}
+mno_additional_menu_town_ms|Visit the craftsmen district.{***}
+mno_castle_wait|Stay in the tavern{s1}.{***}
+mno_town_dungeon|Never: Enter the prison.{***}
+mno_collect_taxes_qst|{reg5?Continue collecting taxes:Collect taxes} owed to {s1}.{***}
+mno_town_leave|Leave...{***}
+menu_town_raid_confirm|You've decided to raid this town, and you and your fellow pirates are loose on the streets!  There are 5 treasure chests within the town's walls: find them all and steal their contents to gain a great reward!{***}
+mno_launch_raid|Launch the raid, arrr!{***}
+mno_town_raid_change_mind|On second thought...{***}
+menu_town_raid_finish|{s8} your party leaves the town.  Your party takes {reg0} casualties during the raid.  You've managed to collect {reg1} piastres in loot.{***}
+mno_raid_return_strings_and_leave|Leave...{***}
+menu_town_main_square|The main square hosts the most important buildings and institutions of the town. Bankers and guildmasters, garrison officers and the Governor himself have their homes and offices in this opulent district.{***}
+mno_town_visit_1|Talk to {s2}.{***}
+mno_town_visit_2|Talk to {s2}.{***}
+mno_town_visit_3|Talk to {s2}.{***}
+mno_town_visit_4|Talk to {s2}.{***}
+mno_town_visit_5|Talk to {s2}.{***}
+mno_town_enter_palace|Enter your palace.{***}
+mno_quest_dinner|Attend the governor's dinner{***}
+mno_quest_date_doughter|Meet the governor's daughter{***}
+menu_town_main_shipyard|The harbor serves as the main gate of a port town. The docks and warehouses are bursting with activity day and night, loads of cargo and the very ships carrying them change hands every minute, and port taverns ever beckon the sailors thirsty for drink and some company.{***}
+mno_town_main_shipmaster|Talk to the {s2}.{***}
+menu_cannot_enter_court|There is a revel in progress in the governor's palace, but you are not of sufficient status to be invited inside. Perhaps increasing your renown would win you admittance -- or you might also try distinguishing yourself in the fighting pits while the revelling is in progress...{***}
+menu_lady_visit|Whom do you wish to visit?{***}
+mno_visit_lady_1|Visit {s12}.{***}
+mno_visit_lady_2|Visit {s12}.{***}
+mno_visit_lady_3|Visit {s12}.{***}
+mno_visit_lady_4|Visit {s12}{***}
+mno_visit_lady_5|Visit {s12}{***}
+mno_visit_lady_6|Visit {s12}{***}
+mno_visit_lady_7|Visit {s12}{***}
+mno_visit_lady_8|Visit {s12}{***}
+menu_town_tournament_lost|You have been eliminated from the tournament.{s8}{***}
+menu_town_tournament_training_won|You have successfully pass the training.{s8}{***}
+menu_town_tournament_training_lost|You have been beaten at the training.{s8}{***}
+menu_town_tournament_won|You have won the tournament of {s3}! You are filled with pride as the crowd cheers your name.In addition to honour, fame and glory, you earn a prize of {reg9} piastres.{***}
+menu_town_tournament_won_by_another|As the only {reg3?fighter:man} to remain undefeated this day, {s1} wins the lists and the glory of this tournament.{***}
+menu_town_tournament_betting_result|As a result, you {s3} win the bet. Therefore, {s4}{***}
+menu_town_tournament|{s1}You are at tier {reg0} of the tournament, with {reg1} participants remaining. In the next round, there will be {reg2} teams with {reg3} {reg4?fighters:fighter} each.{***}
+mno_tournament_join_next_fight|Go to the next round.{***}
+mno_leave_tournament|Withdraw from the tournament.{***}
+menu_tournament_withdraw_verify|Are you sure you want to withdraw from the tournament?{***}
+mno_tournament_withdraw_yes|Yes. This is a waste of my time and skills.{***}
+mno_tournament_withdraw_no|No, not as long as there is a chance of victory!{***}
+menu_tournament_bet|The odds against you are {reg5} to {reg6}.{reg1? You have already bet {reg1} piastres on yourself, and if you win, you will earn {reg2} piastres.:} How much do you want to bet?{***}
+mno_bet_100_denars|100 piastres.{***}
+mno_bet_50_denars|50 piastres.{***}
+mno_bet_20_denars|20 piastres.{***}
+mno_bet_10_denars|10 piastres.{***}
+mno_bet_5_denars|5 piastres.{***}
+menu_tournament_bet_confirm|If you bet {reg1} piastres, you will earn {reg2} piastres if you win the tournament. Is that all right?{***}
+mno_tournament_bet_accept|Go ahead.{***}
+mno_tournament_bet_cancel|Forget it.{***}
+menu_tournament_participants|You ask one of the criers for the names of the tournament participants. They are:^{s11}{***}
+menu_collect_taxes|As the officer with the highest trade skill ({reg2}), {reg3?you expect:{s1} expects} that collecting taxes from here will take {reg4} days...{***}
+mno_start_collecting|Start collecting.{***}
+mno_collect_later|Put it off until later.{***}
+menu_collect_taxes_complete|You've collected taxes totaling {reg3} piastres in {s3}. {s19} expects you to take the money to {reg4?her:him}.{***}
+menu_collect_taxes_rebels_killed|Your swift and decisive action have successfully put down the revolt in its infancy.Anyone with a mind to rebel against you will think twice before acting now.{***}
+menu_collect_taxes_failed|You could only collect {reg3} piastres of taxes in {s3} before the revolt broke out.{s1} won't be happy, but some silver will placate him better than nothing at all...{***}
+menu_collect_taxes_revolt_warning|The people of {s3} are outraged at your demands and decry it as nothing more than extortion.They're getting very restless, and they may react badly if you keep pressing them.{***}
+mno_continue_collecting_taxes|Ignore them and continue.{***}
+mno_halve_taxes|Agree to reduce your collection by half. ({s1} may be upset){***}
+menu_collect_taxes_revolt|You are interrupted while collecting the taxes at {s3}. A large band of angry {reg9?peasants:townsfolk} is marching towards you,shouting about the exorbitant taxes and waving torches and weapons. Looks like you've got a rebellion at hand!{***}
+menu_train_peasants_against_bandits|As the officer with the highest training skill ({reg2}), {reg3?you expect:{s1} expects} that getting some peasants ready for practice will take {reg4} hours.{***}
+mno_make_preparation|Train them.{***}
+mno_train_later|Put it off until later.{***}
+menu_train_peasants_against_bandits_ready|You put the peasants through the basics of soldiering, discipline and obedience.You think {reg0} of them {reg1?have:has} fully grasped the training and {reg1?are:is} ready for some practice.{***}
+mno_peasant_start_practice|Start the practice fight.{***}
+menu_train_peasants_against_bandits_training_result|{s0}{***}
+menu_train_peasants_against_bandits_attack|As you get ready to continue the training, a sentry from the village runs up to you, shouting alarm.The outlaws have been spotted nearby, riding hard for {s3}.The elder begs that you organize your newly-trained militia and face them.{***}
+mno_peasants_against_bandits_attack_resist|Prepare for a fight!{***}
+menu_train_peasants_against_bandits_attack_result|{s9}{***}
+menu_train_peasants_against_bandits_success|The outlaws are broken!Those few who remain run off with their tails between their legs,terrified of the peasants and their new champion.The villagers have little left in the way of wealth after their ordeal,but they offer you all they can find to show their gratitude.{***}
+menu_disembark|Do you wish to disembark?{***}
+menu_ship_reembark|Do you wish to embark?{***}
+mno_reembark_yes|Yes.{***}
+mno_reembark_no|No.{***}
+menu_center_reports|Town Name: {s1}^Rent Income: {reg1} piastres^Tariff Income: {reg2} piastres^Food Stock: for {reg3} days{***}
+mno_to_price_and_productions|Show prices and production.{***}
+menu_price_and_production|Production is:^(Note: base/modified by raw materials/modified by materials plus prosperity)^{s1}^^Price factors are:^{s2}{***}
+menu_town_trade|The town's marketplace is busy with activity. The dockers are toting goods to and fro, driving endless stream of sacks, boxes and barrels to the harbor and back, as traders peddle their wares to the best of their ability - or, truth be told, the ability of their lungs.{***}
+mno_trade_with_arms_merchant|Trade with the arms merchant.{***}
+mno_trade_with_armor_merchant|Trade with the armor merchant.{***}
+mno_trade_with_horse_merchant|Trade with the horse merchant.{***}
+mno_back_to_town_menu|Head back.{***}
+menu_dplmc_trade_auto_sell_begin|Your inventory items of the types marked as permitted for sale, whose pricesare below {reg1} piastres, will be sold to the {reg2?appropriate merchants:elder}in the current {reg2?town:village} automatically. Food, tradegoods and books will never be sold. ^^You can change the auto-sale settings below.{***}
+mno_change_settings|Change settings.{***}
+menu_dplmc_trade_auto_buy_food_begin|You will automatically buy food according to your shopping list. Do you want to continue?^^You can view and configure the shopping list below.{***}
+mno_dplmc_change_shopping_list_of_food|Configure your shopping list.{***}
+menu_town_trade_assessment_begin|You overhear several discussions about the price of trade goods across the local area.^You listen closely, trying to work out the best deals around.{***}
+menu_town_trade_assessment|As the officer with the highest trade skill ({reg2}), {reg3?you try to figure out:{s1} tries to figure out} the best goods to trade in. {s2}{***}
+menu_sneak_into_town_suceeded|Disguised in the garments of a plantation slave, you fool the guards and make your way into the town.{***}
+menu_sneak_into_town_caught|As you try to sneak in, one of the guards recognizes you and raises the alarm!You must flee back through the gates before all the guards in the town come down on you!{***}
+mno_sneak_caught_fight|Try to fight your way out!{***}
+mno_sneak_caught_surrender|Surrender.{***}
+menu_sneak_into_town_caught_dispersed_guards|You drive off the guards and cover your trail before running off, easily losing your pursuers in the maze of streets.{***}
+menu_sneak_into_town_caught_ran_away|You make your way back through the gates and quickly retreat to the safety of the countryside.{s11}{***}
+menu_enemy_offer_ransom_for_prisoner|{s2} offers you a sum of {reg12} piastres in silver if you are willing to sell him {s1}.{***}
+mno_ransom_accept|Accept the offer.{***}
+mno_ransom_reject|Reject the offer.{***}
+menu_captivity_avoid_wilderness|Suddenly all the world goes black around you.Many hours later you regain your conciousness and find yourself at the spot you fell.Your enemies must have taken you up for dead and left you there.However, it seems that none of your wound were lethal,and altough you feel awful, you find out that can still walk.You get up and try to look for any other survivors from your company.{***}
+menu_captivity_start_wilderness|Stub{***}
+menu_captivity_start_wilderness_surrender|Stub{***}
+menu_captivity_start_wilderness_defeat|Your enemies take you prisoner.{***}
+menu_captivity_start_castle_surrender|Stub{***}
+menu_captivity_start_castle_defeat|Stub{***}
+menu_captivity_start_under_siege_defeat|Your enemies take you prisoner.{***}
+menu_captivity_wilderness_taken_prisoner|Your enemies take you prisoner.{***}
+menu_captivity_wilderness_check|stub{***}
+menu_captivity_end_wilderness_escape|After painful days of being dragged about in chains, you find a chance and slip away from your tormentors!{***}
+menu_captivity_castle_taken_prisoner|You are quickly surrounded by guards who take away your weapons. With curses and insults, they throw you into the prison where you must while away the miserable days of your captivity.{***}
+menu_captivity_rescue_lord_taken_prisoner|You remain in disguise for as long as possible before revealing yourself.The guards are outraged and beat you savagely before throwing you back into the cell for God knows how long...{***}
+menu_captivity_castle_check|stub{***}
+menu_captivity_end_exchanged_with_prisoner|After days of imprisonment, you are finally set free when your captors exchange you with another prisoner.{***}
+menu_captivity_end_propose_ransom|You spend long hours in the sunless dank of the prison, more than you can count.Suddenly, one of your guards enters your cell with an offer -your freedom in exchange for {reg5} piastres of your hidden wealth. You decide to...{***}
+mno_captivity_end_ransom_accept|Accept the offer.{***}
+mno_captivity_end_ransom_deny|Refuse him and wait for a better chance.{***}
+menu_captivity_castle_remain|More days pass in the darkness of your cell. You get through them as best you can,enduring the beatings and insults of the guards, watching your underfed body waste away more and more...{***}
+menu_kingdom_army_quest_report_to_army|{s8} sends word that he wishes you to join {reg4?her:his} new military campaign. You need to bring at least {reg13} soldiers to the army, and are instructed to raise more men with all due haste if you do not have enough.{***}
+menu_kingdom_army_quest_messenger|{s8} sends word that he wishes to speak with you about a task he needs performed.He requests you to rendezvous with him immediately.{***}
+menu_kingdom_army_quest_join_siege_order|{s8} sends word that you are to join the siege of {s9} in preparation for a full assault.Your soldiers are to take {s9} at all costs.{***}
+menu_kingdom_army_follow_failed|You have failed to follow {s8}. The admiral assumes that you were otherwise engaged, but would have appreciated your support.{***}
+menu_invite_player_to_faction_without_center|You receive an invitation to service!^^{s8} of {s9} has sent a messenger to deliver you an offer written in his own hand.You would be granted the honour of becoming a noble of {s9}.In return, {s8} asks you to swear an oath of servitude to him and fight in his military campaigns,although he offers you no lands or titles.He will surely be offended if you do not take the offer...{***}
+mno_faction_accept|Accept!{***}
+mno_faction_reject|Decline the invitation.{***}
+menu_invite_player_to_faction|You receive an invitation to service!^^{s8} of {s9} has sent a messenger to bring you an offer written in his own hand.You would be granted the honour of becoming a noble of {s9}.In return, {s8} asks you to swear an oath of servitude to him and fight in his military campaigns,offering you the settlement of {s2} to govern.He will surely be offended if you do not take the offer...{***}
+menu_invite_player_to_faction_accepted|In order to become a noble of the realm, you must swear an oath of servitude to {s3}.You shall have to find him and give him your oath in person. {s5}{***}
+menu_question_peace_offer|You receive a peace offer^^{s1} desires to end the war against you. What is your answer?{***}
+mno_peace_offer_accept|Accept.{***}
+mno_peace_offer_reject|Reject.{***}
+menu_notification_truce_expired|Truce has expired^^The truce between the {s1} and the {s2} has expired.{***}
+menu_notification_feast_quest_expired|{s10}{***}
+menu_notification_sortie_possible|Enemy sighted: Enemies have been spotted near {s4}, and {s5} and others are preparing for a sortie. You may join them if you wish.{***}
+menu_notification_casus_belli_expired|Kingdom fails to respond^^The {s1} has ignored the provocations of the {s2}, which does not bode well for {s3}'s reputation among {reg4?her:his} subjects...^{***}
+menu_notification_lord_defects|Defection: {s4} has betrayed the {s5} and entered the service of the {s7}, taking along the settlements {reg4?she:he} used to govern.{***}
+menu_notification_treason_indictment|Treason indictment^^{s9}{***}
+menu_notification_border_incident|Border incident^^You've heard a rumor that {s9}. This incident is likely to provoke the {s4} into military action against the {s3}.{***}
+menu_notification_player_faction_active|You now claim a domain in your name, without serving any of the kingdoms. This makes you a monarch in your own right, with your court temporarily located at {s12}. Yet, it takes more than force of arms to be recognized by the established rulers in the Caribbean, and they will surely perceive your as a dangerous upstart.^^At this point, the safest course of action would be to enlist into the service of one of the legitimate rulers. Still, if you want to continue as a sovereign monarch, your first priority should be to establish your legitimacy. There are several ways to increase your authority -- marrying into a high-born family, enlisting new nobles to your service, governing your lands, treating with other rulers, or dispatching your officers on missions.^^Either way, your first step as a ruler should be to appoint a chief minister from among your companions, to handle the day to day affairs of your kingdom. Different companions have different capabilities.^^You may appoint new ministers from time to time. You may also transfer your capital to another town, by speaking to the minister.{***}
+mno_appoint_spouse|Appoint your {reg0?wife:husband}, {s10}...{***}
+mno_dplmc_appoint_spouse_plus_1|Appoint your {reg0?wife:husband}, {s10}...{***}
+mno_appoint_npc1|Appoint {s10}{***}
+mno_appoint_npc2|Appoint {s10}{***}
+mno_appoint_npc3|Appoint {s10}{***}
+mno_appoint_npc4|Appoint {s10}{***}
+mno_appoint_npc5|Appoint {s10}{***}
+mno_appoint_npc6|Appoint {s10}{***}
+mno_appoint_npc7|Appoint {s10}{***}
+mno_appoint_npc8|Appoint {s10}{***}
+mno_appoint_npc9|Appoint {s10}{***}
+mno_appoint_npc10|Appoint {s10}{***}
+mno_appoint_npc11|Appoint {s10}{***}
+mno_appoint_npc12|Appoint {s10}{***}
+mno_appoint_default|Appoint a prominent citizen from the area...{***}
+menu_minister_confirm|{s9}can be found at your court in {s12}. You should consult periodically, to avoid the accumulation of unresolved issues that may sap your authority...{***}
+menu_notification_court_lost|{s12}{***}
+menu_notification_player_faction_deactive|Your kingdom no longer holds any land.{***}
+menu_notification_player_wedding_day|{s8} wishes to inform you that preparations for your wedding at {s10} have been complete, and your presence is expected imminently.{***}
+menu_notification_player_kingdom_holds_feast|{s11}{***}
+menu_notification_center_under_siege|{s1} is besieged by {s2} of the {s3}!{***}
+menu_notification_village_raided|A facility has been pillaged!^^{s2} has raided the {s1}, looting its warehouses and burning the entire place to the ground.{***}
+menu_notification_village_raid_started|Your facility is under attack!^^{s2} of the {s3} is pillaging {s1}.{***}
+menu_notification_one_faction_left|The Caribbean united^^The {s1} has defeated all their rivals in the region and stands as the sole power in the Americas!{***}
+menu_notification_oath_renounced_faction_defeated|Your old ruler was defeated!^^You survived your struggle against the {s1}! Thus ends the confrontation you started by renouncing your oath to them.{***}
+menu_notification_center_lost|A settlement was overrun by the enemy!^^You have lost {s1} to the {s2}.{***}
+menu_notification_troop_left_players_faction|Betrayal!^^{s1} has abandoned the {s2} and entered the service of the {s3}.{***}
+menu_notification_troop_joined_players_faction|Good news!^^ {s1} has abandoned the {s2} and entered the service of the {s3}.{***}
+menu_notification_war_declared|Declaration of war^^The {s1} has declared war against the {s2}!{***}
+menu_notification_peace_declared|Peace agreement^^The {s1} and the {s2} have made peace!^{s57}{***}
+menu_notification_faction_defeated|Faction eliminated^^The {s1} has been expelled from the New World!{***}
+menu_notification_rebels_switched_to_faction|Rebellion success^^ Your rebellion is victorious! Your faction now has the sole claim to the colonies of the {s11}, with {s12} as the single ruler.{***}
+menu_notification_letter_of_marque_not_legit_attack|{s9}{***}
+mno_notification_letter_of_marque_not_legit_attack_accept|Relinquish offices.{***}
+mno_decline_faction|Raise your flag in rebellion.{***}
+mno_decline_neutral|Continue...{***}
+menu_notification_player_should_consult|Your minister send words that there are problems brewing in the realm which, if left untreated, could sap your authority. You should consult with him at your earliest convenience.{***}
+menu_notification_player_feast_in_progress|Ball in preparation^^Your {wife/husband} has started preparations for a ball in your palace in {s11}.{***}
+menu_notification_lady_requests_visit|An elderly woman approaches your company and passes one of your men a letter, sealed in plain wax. It is addressed to you. When you break the seal, you see it is from {s15}. It reads, 'I so enjoyed your last visit. {s14} I am currently in {s10}.{s12}'{***}
+mno_notification_lady_requests_visit_continue|Tell the woman to inform her mistress that you will come shortly.{***}
+mno_notification_lady_requests_visit_continue1|Tell the woman to inform her mistress that you are indisposed.{***}
+menu_illness_warning|{s0} Learned men say some good, healthy food and a few days of comfortable rest can help against the malady. Perhaps, {s1} or {s2} might treat the soldiers better. In any case, a small rest in a pub could do no harm.{***}
+menu_illness_end|Thanks to a good rest and some decent food, your soldiers have recovered from {s0}.{***}
+menu_notification_about_gold_usage_after_construct|In {s1} {s51}.{***}
+menu_notification_about_gold_usage_30_day|In {s1} {s51}.{***}
+menu_notification_party_under_siege_with_defence|During the siege, {s2} of the {s3} has lost {s50} in traps.{***}
+menu_notification_village_element_leave_service|{s2} of {s1} has resigned from service.{***}
+menu_notification_extra_good_ready|On your order, {s2} was completed in {s1}. You may now collect it.{***}
+menu_ms_additional_menu|{s0}{***}
+mno_ms_add_1|Talk to the {s1}.{***}
+mno_ms_add_2|Talk to the {s1}.{***}
+mno_ms_add_3|Talk to the {s1}.{***}
+mno_ms_add_4|Talk to the {s1}.{***}
+mno_ms_add_5|Talk to the {s1}.{***}
+mno_ms_add_6|Talk to the {s1}.{***}
+mno_ms_add_7|Talk to the {s1}.{***}
+mno_ms_add_8|Talk to the {s1}.{***}
+mno_ms_add_9|Talk to the {s1}.{***}
+mno_ms_back|Return...{***}
+menu_ms_additional_school|{s2}{***}
+mno_ms_see_npc_list|See the list of officers.{***}
+menu_ms_additional_merchant_guild|The merchant guild is not above indulging into the maligned practice of usury. The clerks of the guild are eager both to accept gold for safekeeping and to provide their visitors with a loan - with a modest interest, of course.{***}
+mno_ms_guild_deposit|Deposit money for {reg0}% monthly interest.{***}
+mno_ms_guild_credit|Take a loan for one month with {reg0}% interest.{***}
+mno_ms_guild_deposit_out|Withdraw your deposit of {reg0} piastres.{***}
+mno_ms_guild_credit_out|Repay your loan of {reg0} piastres.{***}
+menu_ms_guild_get_value|Choose the amount {s0}. The sum currently selected is {reg5} piastres.{***}
+mno_ms_guild_500_minus|-500 piastres.{***}
+mno_ms_guild_1000_minus|-1000 piastres.{***}
+mno_ms_guild_1500_minus|-1500 piastres.{***}
+mno_ms_guild_2000_minus|-2000 piastres.{***}
+mno_ms_guild_500_plus|+500 piastres.{***}
+mno_ms_guild_1000_plus|+1000 piastres.{***}
+mno_ms_guild_1500_plus|+1500 piastres.{***}
+mno_ms_guild_2000_plus|+2000 piastres.{***}
+mno_ms_continue|Finalize the transaction.{***}
+menu_ms_guild_get_out|Do you wish to carry out this transaction?{***}
+mno_ms_guild_break|Yes.{***}
+mno_ms_guild_get_out_back|No.{***}
+menu_ms_guild_not_enough_money|You do not have enough money for that!{***}
+mno_ms_guild_not_enough_money_back|Return...{***}
+menu_ms_credit_fight|You have failed to repay your loan in due time, so the bankers have decided to collect it by force.{***}
+mno_ms_credit_fight_continue|Continue...{***}
+menu_ms_additional_extra_goods|{s0}{***}
+mno_ms_extra_goods_next|Continue...{***}
+menu_ms_additional_shipmaster|Here, the shipwright purchases, sells and repairs the ships delivered to the town harbor.{***}
+mno_ms_ship_repairing|Continue...{***}
+menu_ms_additional_adviser|{s0}{***}
+mno_ms_extra_adviser_continue|Continue...{***}
+menu_garden|{s12}{***}
+mno_nurse|Go with the nurse.{***}
+mno_nurse1|Wait by the spring.{***}
+menu_kill_local_merchant_begin|You spot your victim and trail him down the streets. Soon, he makes a turn for a dark alley.This is your best opportunity to assault him.{***}
+menu_debug_alert_from_s65|DEBUG ALERT: {s65}{***}
+menu_auto_return_to_map|stub{***}
+menu_bandit_lair|{s3}{***}
+mno_bandit_lair_continue_1|Attack the hideout.{***}
+mno_leave_no_attack|Leave.{***}
+mno_leave_victory|Continue...{***}
+mno_leave_defeat|Continue...{***}
+menu_notification_player_faction_political_issue_resolved|{s10} has decided to grant {s11} to {s12}.{***}
+menu_notification_player_faction_political_issue_resolved_for_player|{s10} has decided to grant {s11} to you. You may refuse, of course, but another such opportunity is unlikely to happen any time soon.{s12}{***}
+mno_notification_player_faction_political_issue_resolved_for_player_accept|Accept the honor.{***}
+mno_decline|Decline the honor.{***}
+menu_start_phase_3|{s16}^^You are exhausted by the time you find the inn in {s1}, and fall asleep quickly. However, you awake before dawn and are eager to explore your surroundings. You venture out onto the streets, which are still deserted. All of a sudden, you hear a sound that stands the hairs of your neck on end -- the rasp of a blade sliding from its scabbard...{***}
+menu_start_phase_4|{s11}{***}
+menu_lost_tavern_duel|{s11}{***}
+menu_establish_court|To establish {s4} as your court will require a small refurbishment. In particular, you will need a set of tools and a bolt of velvet. it may also take a short while for some of your followers to relocate here. Do you wish to proceed?{***}
+mno_establish|Establish {s4} as your court.{***}
+mno_establish_court_continue|Hold off...{***}
+menu_notification_relieved_as_marshal|{s4} wishes to inform you that your services as admiral are no longer required. As a reward for the valiant service over the last {reg4} days, {reg8?she:he} offers you a purse of {reg5} piastres.{***}
+menu_dplmc_manage_loot_pool|{s10}{***}
+mno_dplmc_auto_loot|Let your officers pick up gear from the items on the ground.{***}
+mno_dplmc_auto_loot_no|Insufficient item pool space for auto-upgrade.{***}
+mno_dplmc_loot|Access the items on the ground.{***}
+mno_dplmc_auto_loot_upgrade_management|Update management of officers' equipment.{***}
+mno_dplmc_leave|{s20}{***}
+mno_dplmc_leave_and_take_a|Pick up {reg0} of the {reg20} items on the ground and leave.{***}
+mno_dplmc_leave_and_take_b|Pick up the remaining {reg20} {reg0?items:item} on the ground and leave.{***}
+mno_dplmc_leave_and_take_c|There is no space left in your bags.{***}
+menu_dplmc_auto_loot|Your companions will automatically pick up items from the loot pool based on their pre-selected upgrade options. Officers listed first in the company order will have the first pick. Any equipment no longer needed will be dropped back into the loot pool. Any items in the loot pool will be lost when you leave. Are you sure you want to do this?{***}
+mno_dplmc_autoloot_no|No, I've changed my mind.{***}
+mno_dplmc_autoloot_yes|Yes, perform the upgrading.{***}
+menu_dplmc_notification_alliance_declared|Alliance agreement^^{s1} and {s2} have formed an alliance!^{s57}{***}
+mno_dplmc_continue|Continue...{***}
+menu_dplmc_notification_defensive_declared|Defensive pact^^{s1} and {s2} have agreed to a defensive pact!^{s57}{***}
+menu_dplmc_notification_trade_declared|Trade agreement^^{s1} and {s2} have signed a trade agreement!^{s57}{***}
+menu_dplmc_notification_nonaggression_declared|Non-aggression treaty^^{s1} and {s2} have concluded a non-aggression treaty!^{s57}{***}
+menu_dplmc_question_alliance_offer|You receive an alliance offer^^{s1} wants to make an alliance with your kingdom. What is your answer?{***}
+mno_dplmc_alliance_offer_accept|Accept.{***}
+mno_dplmc_alliance_offer_reject|Reject.{***}
+menu_dplmc_question_defensive_offer|You receive a pact offer^^{s1} offers your kingdom a defensive pact. What is your answer?{***}
+mno_dplmc_defensive_offer_accept|Accept.{***}
+mno_dplmc_defensive_offer_reject|Reject.{***}
+menu_dplmc_question_trade_offer|You receive a trade offer^^{s1} offers your kingdom a trade agreement. What is your answer?{***}
+mno_dplmc_trade_offer_accept|Accept.{***}
+mno_dplmc_trade_offer_reject|Reject.{***}
+menu_dplmc_question_nonaggression_offer|You receive a treaty offer^^{s1} offers your kingdom a non-aggression treaty. What is your answer?{***}
+mno_dplmc_nonaggression_offer_accept|Accept.{***}
+mno_dplmc_nonaggression_offer_reject|Reject.{***}
+menu_dplmc_notification_alliance_expired|Alliance has expired^^The alliance between {s1} and {s2} has expired and was degraded to a defensive pact.{***}
+menu_dplmc_notification_defensive_expired|Defensive pact has expired^^The defensive pact between {s1} and {s2} has expired and was degraded to a trade agreement.{***}
+menu_dplmc_notification_trade_expired|Trade agreement has expired^^The trade agreement between {s1} and {s2} has expired and was degraded to a non-aggression treaty.{***}
+menu_dplmc_dictate_terms|Dictate your peace terms.{***}
+mno_dplmc_demand_4000|Demand 4000 piastres.{***}
+mno_dplmc_demand_8000|Demand 8000 piastres.{***}
+mno_dplmc_demand_castle|Demand {s2}.{***}
+mno_dplmc_go_back|Go back.{***}
+menu_dplmc_deny_terms|{s1} refuses your terms and is breaking off negotiations.{***}
+menu_dplmc_village_riot_result|{s9}{***}
+menu_dplmc_village_riot_removed|After a bloody battle, you and your men slaughter the rebels and regain control over the village. Unfortunately, little is left for you to control.{***}
+menu_dplmc_town_riot_removed|After a bloody battle, you and your men slaughter the rebels and regain control over the town.{***}
+menu_dplmc_riot_negotiate|You approach the angry crowd and begin negotiations. The leader of the riot demands {reg0} piastres. He agrees to lay down arms if you are willing to pay.{***}
+mno_dplmc_pay_riot_treasury|Induce your chamberlain to pay the money from the treasury.{***}
+mno_dplmc_pay_riot_cash|Pay cash.{***}
+mno_dplmc_back|Back...{***}
+menu_dplmc_notification_riot|The peasants of {s1} launched a riot against you! In a treacherous assault, the men loyal to you have been all slain. The remainder joined the angry crowd.{***}
+menu_dplmc_notification_appoint_chamberlain|As a governor of a settlement, you can now appoint a chamberlain who resides at your court for a weekly salary of 15 piastres. He will handle all financial affairs like determining and collecting taxes, paying wages and managing your estate. In addition, he supervises money transfers between the kingdoms, giving you more diplomatic options.{***}
+mno_dplmc_appoint_default|Appoint a prominent local landowner.{***}
+mno_dplmc_notification_appoint_chamberlain_continue|Proceed without chamberlain.{***}
+menu_dplmc_chamberlain_confirm|Your chamberlain can be found at your court. You should consult him if you want to give him any financial advice or you need greater amounts of money. You should always make sure that there is enough money in the treasury to pay for political affairs.{***}
+menu_dplmc_notification_appoint_constable|As a governor of a settlement, you can now appoint a constable who resides at you court for a weekly salary of 15 piastres. He will recruit new troops and provide information about your army.{***}
+mno_dplmc_notification_appoint_constable_continue|Proceed without constable.{***}
+menu_dplmc_constable_confirm|Your constable can be found at your court. You should consult him if you want to recruit new troops or get detailed information about your standing army.{***}
+menu_dplmc_notification_appoint_chancellor|As a governor of a settlement, you can now appoint a chancellor who resides at you court for a weekly salary of 20 piastres. He will be the keeper of your seal and conduct the correspondence between you and other important persons.{***}
+mno_dplmc_notification_appoint_chancellor_continue|Proceed without chancellor.{***}
+menu_dplmc_chancellor_confirm|Your chancellor can be found at your court. You should consult him if you want to send messages or gifts.{***}
+menu_dplmc_deserters|Some of your soldiers don't believe that you will pay their wages, and desert. Overall, you lose {s11} men.{***}
+menu_dplmc_negotiate_besieger|You appear with a white flag at the top of the wall. After a while, a negotiator of {s11} approaches you. He demands {s6} and all associated villages as well as {reg0} piastres for safe conduct.{***}
+mno_dplmc_comply_treasury|Comply and induce your chamberlain to pay the money from the treasury.{***}
+mno_dplmc_comply|Comply and pay the money in cash.{***}
+mno_dplmc_break_off|Break off negotiations.{***}
+menu_dplmc_messenger|Sir, I found {s10} and delivered your message. His answer was {s11}.{***}
+menu_dplmc_scout|Your spy returned from {s10}^^{s11}{s12}{***}
+menu_dplmc_domestic_policy|You can now shape the domestic policy of your kingdom. Do you want to change your policy now?{***}
+mno_dplmc_yes|Yes, I want to change the domestic policy.{***}
+mno_dplmc_no|No, I don't want to change the domestic policy.{***}
+menu_dplmc_preferences|Additional Mod Preferences{s0}{***}
+mno_dplmc_disable_terrain_advantage|Disable terrain advantage in Autocalc battles (currently this feature is Enabled).{***}
+mno_dplmc_enable_terrain_advantage|Enable terrain advantage in Autocalc battles (currently this feature is Disabled).{***}
+mno_dplmc_toggle_lord_recycling_a|Enable lords returning from exile (currently disabled){***}
+mno_dplmc_toggle_lord_recycling_b|Disable lords returning from exile (currently enabled){***}
+mno_dplmc_toggle_lord_recycling_reset|You used a saved game from another mod: g dplmc lord recycling = {reg0} (click to reset){***}
+mno_dplmc_toggle_ai_changes_a|Enable AI changes (currently disabled){***}
+mno_dplmc_toggle_ai_changes_b|Increase AI changes (currently low){***}
+mno_dplmc_toggle_ai_changes_c|Increase AI changes (currently medium){***}
+mno_dplmc_toggle_ai_changes_d|Disable AI changes (currently high/experimental){***}
+mno_dplmc_reset_lord_recycling|You used a saved game from another mod: g dplmc ai changes = {reg0} (click to reset){***}
+mno_dplmc_toggle_gold_changes_a|Set economic & behavioral changes to low (current mode: disabled){***}
+mno_dplmc_toggle_gold_changes_b|Set economic & behavioral changes to medium (current mode: low){***}
+mno_dplmc_toggle_gold_changes_c|Set economic & behavioral changes to high/experimental (current mode: medium){***}
+mno_dplmc_toggle_gold_changes_d|Disable economic & behavioral changes (current mode: high/experimental){***}
+mno_dplmc_reset_gold_changes|You used a saved game from another mod: g dplmc gold changes = {reg0} (click to reset){***}
+mno_dplmc_switch_woman_prejudice_1|Change prejudice level (current level is default){***}
+mno_dplmc_switch_woman_prejudice_2|Change prejudice level (current level is off){***}
+mno_dplmc_switch_woman_prejudice_3|Change prejudice level (current level is high){***}
+menu_dplmc_affiliated_family_report|{s0}{***}
+mno_lord_relations|View the list of all known nobles by relation.{***}
+menu_dplmc_lord_relations_2|{s1}{***}
+menu_dplmc_start_select_prejudice|In the XVII century, the males of noble descent were still dominating war and politics. Because of this, a female character can face some prejudice at the start of her career, and some opportunities open to men will not be available (however, a woman will also have some opportunities a man will not). Some players might find this distasteful, so if you want, you can ignore that aspect of history.^^You can later change your mind through the options in the Camp menu.{***}
+mno_dplmc_start_prejudice_yes|I do not mind historical prejudice.{***}
+mno_dplmc_start_prejudice_no|I would prefer not to encounter historical prejudice.{***}
+menu_ms_additional_officer|Here, the garrison commander trains the troops and manages recruits and mercenaries visiting the town.{***}
+mno_ms_additional_officer_next|Enter the barracks.{***}
+menu_oim_caravan_delivered|All the goods sent with the caravan have been sold. After writing off the expenses, you end up with a profit of {reg1} piastres.{***}
+menu_notification_simple_str|{s2}{***}
+menu_notification_tax_collected|{s2}{***}
+menu_banks_report|{s2}{***}
+menu_notification_about_gold_usage_7_day|In {s1} {s51}.{***}
+menu_podkup_neg|Your messenger failed to convince the defenders. He is now hanging from the wall by his neck, causing dismay in your company.{***}
+mno_Back_2|Continue...{***}
+menu_podkup_ataka|Begin the assault.{***}
+mno_Cont|Continue...{***}
+menu_udral_otravil|You successfully poisoned the water source of the town.{***}
+mno_Cont1|Continue...{***}
+menu_vzvesili|You were caught during your attempt. Now, your body adorns the wall of the town.{***}
+mno_Cont2|Aaaargh!{***}
+menu_udral_neotravil|The enemies spotted you before you were able to poison the well. Fortunately, you managed to slip away...{***}
+mno_Cont3|Continue...{***}
+menu_neudral_otravil|The enemies spotted you after you poisoned the well successfully. You'll have to fight your way out of town now.{***}
+mno_Cont4|Continue...{***}
+menu_neudral_neotravil|The enemies spotted you before you were able to poison the well. You'll have to fight your way out of town now.{***}
+menu_sneak_into_town_caught_dispersed_guards_t|You've killed your pursuers and escaped the town!{***}
+menu_sneak_into_town_caught_ran_away_t|Making your way through the streets, you eluded your pursuers and escaped the town.{***}
+menu_vorvatsya_uspeh|You managed to break into the town. Now, you must destroy {reg0} percents of the defenders before they have reinforcements.{***}
+menu_vorvatsya_proval|The enemies spotted your detachment and slaughtered it to the last man. Having lost {s50} troops, your army suffers a loss of morale.{***}
+menu_podkop_uspih|With the skills you possess, it would take you {reg4} hours to dig a tunnel suitable for setting a mine.{***}
+mno_build_podkop_min|Begin digging.{***}
+mno_podkop_uspih_go_back|Consider other options.{***}
+menu_podkop_neg|Your knowledge of engineering is obviously lacking. The tunnel you were digging had caved in, costing you 24 hours of work.{***}
+mno_podkop_neg_go_back|Consider other options.{***}
+menu_podkop_uspih_walls|The walls of this town are too strong to blow up with a mine.{***}
+mno_podkop_uspih_walls_go_back|Consider other options.{***}
+menu_podkop_uspih_uspih|Part of the town wall was destroyed by the mine!{***}
+mno_go_next|Begin the assault.{***}
+menu_podkop_uspih_neg|The mine had exploded, yet the wall still defies you.{***}
+mno_podkop_uspih_neg_go_back|Consider other options.{***}
+menu_oim_last_game_menu|{s2}{***}
+menu_charge_with_bunt|A plummeting morale resulted in a mutiny among your soldiers{reg0?{s2}:.} You'll have to fight the treacherous scum now.{***}
+mno_charge_with_bunt_continue_bunt|Continue...{***}
+menu_oim_simle_ship_battle|Your fleet: ^{s41}. ^Enemy fleet: ^{s40} ^Current distance: {s42} ^Your orders:{***}
+mno_hold_distance|Hold distance.{***}
+mno_make_distance_closer|{s2}{***}
+mno_increase_distance|Try to avoid the enemy fleet.{***}
+menu_oim_simle_ship_battle_select_projectile|What kind of ammunition to load?{***}
+mno_load_cannon_ball|Load with cannonballs.{***}
+mno_load_knippel|Load with chainshot.{***}
+mno_load_shrapnel|Load with grapeshot.{***}
+menu_oim_simle_ship_battle_show_results|{s10} ^{s2} ^{reg10?^^Allied fleet damage: ^{s31} ^^^Enemy fleet damage: ^{s32}: }{***}
+mno_do_next_turn|Continue...{***}
+menu_oim_simle_ship_battle_escape|Not ready yet{***}
+mno_continue_bunt|Continue...{***}
+menu_oim_ai_chooses_boarding|The enemy has elected to board your vessel. You decide ...{***}
+mno_oim_ai_chooses_boarding_continue_1|Command your boarding crew from the stern.{***}
+mno_oim_ai_chooses_boarding_continue_2|Command your boarding crew from the bow.{***}
+mno_oim_ai_chooses_boarding_continue_3|Lead your boarding crew in the thick of an action.{***}
+menu_oim_simle_ship_battle_boarding|You were able to board an enemy ship. You decide ...{***}
+mno_oim_simle_ship_battle_boarding_continue_1|Command your boarding crew from the stern.{***}
+mno_oim_simle_ship_battle_boarding_continue_2|Command your boarding crew from the bow.{***}
+mno_oim_simle_ship_battle_boarding_continue_3|Lead your boarding crew in the thick of an action.{***}
+menu_oim_simle_ship_battle_boarding_distance|There are {reg10} swivel guns aboard your ship, while the enemy vessel seems to have up to {reg11}. You consider this and decide to...{***}
+menu_oim_simle_ship_win|You win the battle.{***}
+menu_oim_simle_ship_lost|You lost the battle.{***}
+menu_meeting_with_thieves|{s1}{***}
+menu_oim_rich_visitor_meal|You have paid 25 piastres for a good meal, now you plan to rest for a while.{***}
+mno_start_resting|Start resting.{***}
+menu_oim_drunken_prison|As you grasp for your weapon, the guards subdue you, then drag you to prison...{***}
+menu_oim_rich_visitor|{s2}{***}
+mno_attack|Follow the townsman.{***}
+menu_oim_rich_visitor_result|{s2}{***}
+menu_oim_ship_simple_encounter|{s2} You have {reg10} {reg12?ships:ship} ready for battle against {reg11} of the enemy. ^There is a {s4} blowing from the {s3}.{***}
+mno_oim_ship_simple_encounter_encounter_attack|Engage them!{***}
+mno_smugglers_escape|Attempt an escape.{***}
+mno_smugglers_board|Permit them to board.{***}
+mno_talk_sea_lord|Negotiate.{***}
+menu_oim_simple_ship_presentation|Not ready yet.{***}
+menu_oim_mercenaries_eq_presentation|Not ready yet.{***}
+menu_podkop_no_powder|You have no gunpowder! There is no way to blow up the wall without it.{***}
+menu_simple_string_money_report|{s53}{***}
+menu_town_cheats|Do whatever you want.{***}
+mno_summon_drunk|{reg10?Dismiss:Get} a drunkard.{***}
+mno_summon_ass|{reg11?Scare away:Hire} an assassin.{***}
+mno_summon_bandit|{reg12?Kick out:Get ambushed by} some bandits.{***}
+menu_oim_view_towns|View towns.{***}
+mno_oim_view_towns_oim_cheatss|DEBUG: Edit scene scn spain koro center{***}
+mno_oim_view_towns_oim_cheatss1|DEBUG: Edit scene scn spain kampeche center{***}
+mno_oim_view_towns_oim_cheatss2|DEBUG: Edit scene scn spain santodomingo center{***}
+mno_oim_view_towns_oim_cheatss3|DEBUG: Edit scene scn spain kumana center{***}
+mno_oim_view_towns_oim_cheatss4|DEBUG: Edit scene scn spain havana center{***}
+mno_oim_view_towns_oim_cheatss5|DEBUG: Edit scene scn spain portobelo center{***}
+mno_oim_view_towns_oim_cheatss6|DEBUG: Edit scene scn spain sanhuan center{***}
+mno_oim_view_towns_oim_cheatss7|DEBUG: Edit scene scn spain kartahena center{***}
+mno_oim_view_towns_oim_cheatss8|DEBUG: Edit scene pir portroyal center{***}
+mno_oim_leave|Back{***}
+menu_oim_view_events|View towns{***}
+mno_oim_view_events_leave|Do test run.{***}
+mno_oim_view_events_leave1|Back.{***}
+menu_oim_event_triggered|{s10}{***}
+mno_oim_event_answer_1|{s11}{***}
+mno_oim_event_answer_2|{s11}{***}
+mno_oim_event_answer_3|{s11}{***}
+mno_oim_event_answer_4|{s11}{***}
+menu_contine_sea_battle|You succeed in the boarding action. {reg12?There were {reg12} more sailors lost than originally thought. :}{reg13?{reg13} were saved by surgery. :}{reg14?{reg14} were saved by the infirmary. :}{reg10?In all, {reg10} sailors from your ship's complement perished during the battle. :}^^{s3}{s2} was {reg11?scuttled by her crew.:captured by your boarding team!}{***}
+mno_capture_ship_as_usual_ship|Add the captured vessel to your fleet.{***}
+mno_capture_ship_as_flagman|Make the captured vessel your flagship.{***}
+mno_capture_ship_flood|Make it your flagship and scuttle your own.{***}
+mno_capture_ship_flood1|Scuttle the captured vessel.{***}
+mno_continue_battle|Continue.{***}
+menu_select_ship_to_scuttle|You need to abandon one of your ships in order to make space for the captured vessel.{***}
+mno_select_ship_to_scuttle_continue_1|Scuttle your flagship and transfer your flag to the captured vessel.{***}
+mno_select_ship_to_scuttle_continue_2|{s3}.{***}
+mno_select_ship_to_scuttle_continue_21|{s3}.{***}
+mno_select_ship_to_scuttle_continue_22|{s3}.{***}
+mno_select_ship_to_scuttle_continue_23|{s3}.{***}
+mno_select_ship_to_scuttle_continue_24|{s3}.{***}
+mno_select_ship_to_scuttle_continue_25|Consider other options.{***}
+menu_sea_battle_retreated|You retreated from the naval engagement. Your crew is disappointed, accusing you of cowardice in hushed tones.{***}
+menu_oim_flagman_lost|{s3}^{s2}{***}
+mno_oim_flagman_lost_continue|Resume battle...{***}
+mno_oim_flagman_lost_continue1|Surrender.{***}
+menu_captivity_end_wilderness_escape_at_sea|{s2}{***}
+menu_do_sea_fort_assault_confirm|This city can be attacked from the sea. If successful, your troops will be able to land immediately at the port..{***}
+menu_refresh_party_window|DO NOT SHOW{***}
+menu_igromir_prsnt|This is sea battle to control ship use WSAD, to fire press 'space' or right click on the ship's icon{***}
+menu_igromir_prsnt_exit|This is sea battle to control ship use WSAD, to fire press 'space' or right click on the ship's icon{***}
+menu_test_perks_menu|{s2}{***}
+mno_perv_perk|Prev trait: {s0}{***}
+mno_next_perk|Next trait: {s0}{***}
+mno_add_perk|Add {s0} trait{***}
+mno_exit_menu|Exit test menu{***}
+menu_special_ship_victory|Acknowledging your obvious superiority, the enemy surrenders. {reg21?You have captured {s20}:You had to scuttle the enemy ships.}{***}
+menu_universal_passage_menu|Acknowledging your obvious superiority, the enemy surrenders.{***}
+mno_walk_the_streets|Take a walk around the streets...{***}
+mno_entern_tavern|Enter town tavern...{***}
+mno_enter_court|Door to the court{***}
+mno_enter_storage|Door to the storage{***}
+menu_perks_cheats|Perk test system cheats{***}
+mno_add_ren|Add 100 renown{***}
+mno_add_ren1|Remove 100 renown{***}
+mno_add_ren2|Add 1 honor{***}
+mno_add_ren3|Remove honor{***}
+mno_add_ren4|Add perk free points{***}
+mno_exit|Exit{***}
+menu_instant_escape|There is one heart-stopping moment during which you are sure you are about to be discovered, but in the end you find your way out of town. Your absence is discovered too late; you hear the cries and alarms fade as you quickly add distance from the town center. Shortly after, you discover a secluded camp in the woods and reunite with your soldiers.{***}
+menu_sub_treasure_find|{s21}{***}
+mno_sub_treasure_find_execute|{s2} {s1}.{***}
+mno_sub_treasure_find_abandon|Abandon the search.{***}
+menu_drowned|One of the soldiers fails to reappear after his dive. His body is soon discovered caught by a coral branch -- the poor man couldn't free himself and drowned. The crew becomes depressed with this tragedy.{***}
+mno_drowned_continue|Stop work to hold a sea burial.{***}
+menu_shark_attack|One of the divers hurts himself, and, in a span of mere seconds, an entire school of sharks arrives, attracted by the smell of blood! The party loses {reg0} soldiers dead and {reg1} seriously wounded before fending them off, {reg2} were saved by surgery. The crew is demoralized by the event.{***}
+mno_shark_attack_continue|Pull everyone out of the water!{***}
+menu_snake_bite|One of the soldiers grabs what he had thought was a rope in the dark. A rattlesnake bite makes him bloat, blacken, and pass away in supreme agony. The horrible screams of his torturous death ring in the ears of others for a long time...{***}
+mno_snake_bite_continue|Stop work to smoke out the dig site.{***}
+menu_cave_in|A single miscalculated shove, and no less than a ton of earth and rocks is loosed upon a group of diggers. The party loses {reg0} soldiers dead and {reg1} seriously wounded, not to mention the will to continue digging. At least {reg2} lives were saved by timely surgery.{***}
+mno_cave_in_continue|Stop work and reinforce the dig shorings.{***}
+menu_beast_attack|A scouting party rouses a jaguar from its sleep. The wildcat eviscerates its accidental molester with a single stroke of its claws, then flees into the jungle with a deafening roar. The surviving scouts are demoralized by this event.{***}
+mno_beast_attack_continue|Stop work to scare off any additional wildlife with gunfire.{***}
+menu_shooting|The darkness and the highstrung nerves play a cruel joke on your soldiers: two scouting parties take one another for a band of hostile natives and open fire. Your party loses {reg0} soldiers dead and {reg1} seriously wounded before they realize their tragic mistake. {reg2} lives were saved by timely surgery.{***}
+mno_shooting_continue|Stop work to reorganize the men.{***}
+menu_sub_treasure_found|{s21}{***}
+mno_share|{s21}{***}
+mno_keep|{s21}{***}
+mno_remedy|Make up for the soldiers' troubles by paying out {reg0} piastres.{***}
+mno_ignore|Ignore their discontent.{***}
+mno_share_idol|Keep the idol, but give the crew their share of its value.{***}
+mno_keep_idol|Keep the idol for yourself.{***}
+mno_toss_idol|Throw the idol into the sea.{***}
+menu_sub_treasure_finish|{s21}{***}
+mno_sub_treasure_finish_continue|Well, something to do at the camp besides reading books...{***}
+menu_main_treasure_init|'The Fountain of Youth. Property of Juan Ponce de Leon.' But of course! A mythic fountain granting eternal youth and immortality, sought by this Spanish conquistador a century and half ago for nine years, until his death in the last expedition. Everyone has heard that Ponce de Leon looked for it in Florida, but now you might possess the key to its precise location. Why else would someone tear the conquistador's map asunder and scatter its pieces all over the Caribbean?{***}
+mno_main_treasure_init_continue|Well, off to Florida then!{***}
+menu_main_treasure_found|There it is! The Fountain! Ponce de Leon was indeed right, even if he didn't live to know it. Looks like a plain spring pouring from a cavern rock, though... But, on the other hand, there are plenty of offerings of native making beneath it. It is anything but plain!{***}
+mno_drink|Drink from the fountain.{***}
+mno_plunder|Plunder the offerings.{***}
+menu_main_treasure_drunk|Stepping forward from a semicircle of reverent soldiers, you walk to the mysterious spring and drink a handful of its waters. Sensations you have never known before enthrall you so much that you fail to notice how the cavern begins to rumble. The touch of an outsider has defiled the ancient native relic, and you would have surely ended up buried under the tons of rock if not for a mighty push by your loyal boatswain. Running out of the cavern, you sense with a strange detachment that you move faster and smoother than ever before.^^Your party loses {reg0} soldiers dead and {reg1} seriously wounded, while surgery saved {reg2} lives.{***}
+mno_main_treasure_drunk_continue|Well, looks like I drank it to the dregs.{***}
+menu_main_treasure_plundered|At your orders, the soldiers quickly and efficiently loot the native offerings: trinkets and figurines of gold, jewels and ritual items. There seems no end to this robbery, until it occurs to one of the soldiers to have a taste of the magical water. The cavern begins to crumble, burying the spring, the treasures, the soldiers, everything. The touch of an outsider defiled the ancient native relic, and it is now lost to the world forever. All that remains of the mythic Fountain of Youth is the offerings you just plundered.^^Your party loses {reg0} soldiers dead and {reg1} seriously wounded, while surgery saved {reg2} lives.{***}
+menu_main_treasure_share_finish|Gold is a cheap replacement for eternal youth, but if there is a plenty of it, it might suffice. Most of the crew is satisfied with the outcome of the expedition.{***}
+mno_main_treasure_share_finish_continue|That's good enough!{***}
+menu_main_treasure_keep_finish|Having lost both the prospects of eternal youth and the gold, the crew is furious.{***}
+mno_main_treasure_keep_finish_continue|Damn them to Hell!{***}
+menu_quest_fight_in_prison|Perk test system cheats{***}
+menu_quest_treasure_start|The surrounding area matches the sketch given by Francois, and this strange mound must store Flint's treasures!{***}
+mno_quest_treasure_start_execute|Begin digging.{***}
+mno_quest_treasure_start_abandon|Ignore the mound.{***}
+menu_quest_treasure_found|After three hours of exhausting work, a shovel strikes against wood! More efforts are applied, and in the end, you unearth a small ironbound chest. Breaking the lock away, you discover a respectable collection of silver jewelry and coins.{***}
+mno_quest_treasure_found_abandon|Finally!{***}
+menu_quest_treasure_exit|At the bottom of the chest, you find a scrap of paper scrawled in bizarre brownish ink. It takes a while to make out anything out of this scrabble, and even then it makes little sense:^^Disciples Twelve shall hold the key to life and immortality. Seek them out and tread their way, then you shall find the Holy Grail.^F.^^Could it be written by Flint's own hand?{***}
+mno_quest_treasure_exit_abandon|What is the meaning of this nonsense?{***}
+menu_dplmc_ship_dmg|Lack of funds for fleet maintenance deteriorates the state of some of your ships.{***}
+menu_dplmc_ship_deserters|Some of your crewmen no longer believe that you will pay their wages, and desert their posts.{***}
+menu_dplmc_builds_dmg|Lack of funds causes your workers to quit their jobs at your {s50} in {s10}, and the facility is abandoned.{***}
+menu_smugglers_patrool|{s1}{***}
+mno_trade|Sell your goods.{***}
+mno_smugglers_patrool_continue|Leave.{***}
+menu_smugglers_escape|{s1}{***}
+menu_castle_besiege_unavailable|Your party is clearly hesitating to assault a fortified town while led by a mere {s60}.{***}
+mno_castle_besiege_unavailable_continue|Consider other options.{***}
+menu_town_reqruit|Not ready yet.{***}
+menu_town_tavern|This place, the rowdiest in the city, is home to wandering bands of local mercenaries, captains in search of a work and other misfits. You can rent free rooms to spend some time with your party here. Breakfast is included in the service.^{s1}{***}
+mno_inn_wait|Stay in the guestrooms ({reg1} piastres per night).{***}
+mno_tavern|Visit the tavern.{***}
+menu_town_hall|Dozens of clerks are running the day to day affairs of the colony from this large and opulent building.{***}
+mno_town_ms|Enter the townhall{***}
+menu_town_wooden_fort|Vigilant soldiers patrol the battlements of a fort overlooking the harbor.{***}
+mno_castle_station_troops|Manage the garrison. {s10}{***}
+mno_dplmc_castle_give_troops|Transfer soldiers to the garrison (cannot remove).{***}
+menu_main_treasure_quest|There it is! The Fountain! Ponce de Leon was indeed right. Looks like a plain spring pouring from a cavern rock, though... But, on the other hand, there are plenty of offerings of native making beneath it. It is anything but plain!{***}
+menu_main_treasure_drunkquest|Stepping forward from a semicircle of reverent soldiers, you walk to the mysterious spring and drink a handful of its waters...{***}
+mno_main_treasure_drunkquest_continue|Continue...{***}
+menu_camp_08|Following the directions left by Jorge, you have reached Belize. Having asked a few citizens, you found McGonagall in the harbor, reading awful poetry to the dockers. His audience tried hard to ignore him. You decide to approach the poet...{***}
+mno_camp08_action_1|Continue.{***}
+menu_camp_09|For another two excruciating hours you have to suffer through listening to the sun of the Scottish poetry, feeling your intelligence draining with every passing minute. Finally, mister McGonagall leads you outside the city to meet up with his party. If a rolling 'r' and an 'oo' instead of an 'a' are anything to judge by, most of his men were born somewhere halfway between Glasgow and Edinburgh.{***}
+mno_camp09_action_1|Continue.{***}
+menu_camp_10|After a short trip, you have reached the colony of Bluefields. According to mister McGonagall, the aerie of the slave lords is hidden somewhere along the cost.{***}
+mno_camp10_action_1|Continue.{***}
+menu_camp_11|In a blink of an eye the shifty Frenchman mounted and quickly disappeared beyond a turn of the road. Only then you notice a young man with the looks of a clerk standing shy next to you...{***}
+mno_camp11_action_1|Continue.{***}
+menu_camp_12|You have found the final resting place of Zendar Van der Graaf. The plaque reads,^^'And many a heart will mourn for him, but all in vain,^Because he never can return to them again.^1640-1670'{***}
+mno_camp12_action_1|Continue.{***}
+menu_camp_13|While brooding over Zendar's tomb, you have spotted a strange person heading towards you...{***}
+mno_camp13_action_1|Talk to him.{***}
+menu_camp_14|The strange individual heads straight for the jungle and diseappears under the canopy...{***}
+mno_camp14_action_1|Continue.{***}
+menu_camp_15|You enter a tent full of some kinds of devices, glass bulbs and other obscure paraphernalia. Francois chalks some computations on a blackboard, adds water into the bulbs, the smell in the air reminds you of a looming thunderstorm.{***}
+mno_camp15_action_1|Continue.{***}
+menu_camp_16|Perk test system cheats{***}
+menu_camp_17|As you turn around, you sense a fist connecting to your jaw. Then you sense nothing.{***}
+mno_camp17_action_1|Continue.{***}
+menu_camp_18|Out of the dark, you hear voices...{***}
+mno_camp18_action_1|Continue.{***}
+menu_camp_19|- Have you killed him?{***}
+mno_camp19_action_1|Continue.{***}
+menu_camp_20|- He'll be okay. I am a doctor, after all.{***}
+mno_camp20_action_1|Continue.{***}
+menu_camp_21|- Are we going back now?{***}
+mno_camp21_action_1|Continue.{***}
+menu_camp_22|- Yeah, but we must get Francois first.{***}
+mno_camp22_action_1|Continue.{***}
+menu_camp_23|You come to your senses in a strange place. You don't have a memory of getting there.{***}
+mno_camp23_action_1|Continue.{***}
+menu_camp_24|Perk test system cheats{***}
+menu_name_faction|stub{***}
+menu_sa_no_valid_ships|You don't have any ships capable of assaulting a city.{***}
+mno_no_valid_ships_continue|Go back.{***}
+menu_notification_center_captured|Your kingdom has expanded!^^{s1} was captured by {s2}.{***}
+menu_mine_escape_result|{s1}^{reg1} of the prisoners have escaped, and {reg2} have perished in the attempt.^{reg3} of the guards were slain in the uprising.^^{s2}^^{s3}{***}
+mno_mine_escape_result_continue|Continue...{***}
+menu_mine|You are being detained at {s1}.{s4}^^{s2}^^{s3}{***}
+mno_mine_wait|Keep waiting{***}
+mno_mine_escape|{s1}{***}
+mno_mine_prepare|Seek help from other prisoners{***}
+mno_mine_send_message|Send a message to your supporters{***}
+mno_mine_audience|Request an audience with administration{***}
+menu_town_leave_land|Your supply train is empty. Are you sure you want to continue inland emptyhanded?{***}
+mno_town_leave_land_return|Stay in the city{***}
+mno_town_leave_land_leave|Continue inland{***}
+menu_town_leave_sea|Your supply train will be disbanded, the goods will be placed into your cargo hold, and the surplus sold on the market. Are you sure you want to continue?{***}
+mno_town_leave_sea_return|Stay in the city{***}
+mno_town_leave_sea_leave|Put to sea{***}
+menu_tavern_fight_lost|You came to your senses in a smelly ditch, beaten, bruised and short on silver. It would be prudent not to return to this tavern for a while.{***}
+menu_tavern_fight_won|You have fought off the angry tavern-goers and left the premises hated, but undefeated. It will be a while till your face is a welcome sight in this tavern once again.{***}
+menu_hobotent_sleep|You lay on a hammock. Sleep, or stand back?{***}
+menu_missions|{s10}.{***}
+mno_mis_begin|Continue...{***}
+menu_mission_result|{s1}.{***}
+mno_mis_continue|Continue...{***}
+menu_prisoners|{s2}^^{s1} {s3}{***}
+mno_prisoners_yes|Yes{***}
+mno_prisoners_no|{s10}{***}
+menu_lq_missions|{s50}{***}
+mno_lq_begin|Continue...{***}
+mno_lq_leave|Go back{***}
+menu_lq_mission_result|{s50}{***}
+mno_lq_mis_continue|Continue...{***}
+menu_abbey|{s20}{***}
+mno_abbey_center|Take a walk around the mission{***}
+mno_abbey_buy_food|Purchase some food{***}
+mno_abbey_wait|Stay here for a while ({reg1} piastres per day){***}
+mno_abbey_hostile_action|Attack the mission!{***}
+mno_abbey_leave|Leave{***}
+menu_notification_quest_battle_begin|As you walk down the streets of {s10}, you spot a group of men making their way to the city gates and dragging along a tied up girl. They must be the thugs {s11} asked you to intercept.{***}
+menu_quest_dinner|{s10}{***}
+menu_quest_meet_courier|{s10}{***}
+menu_quest_date_doughter|{s10}{***}
+menu_notification_governers_doughter_quest_1|You have received a message from {s0}. He wants to see you as soon as possible.{***}
+menu_quest_battle_end|You have defeated the thugs with ease. Shortly after, you are approached by a party of armed men led by {s10}. He asks you to have a conversation with him at his mansion.{***}
+menu_cove_leave_sea|Your supply train will be disbanded, the goods will be placed into your cargo hold, and the surplus will be left behind! Are you sure you want to continue?{***}
+mno_cove_leave_sea_return|Stay in the cove{***}
+mno_cove_leave_sea_leave|Put to sea{***}
+menu_cove_leave_land|Your supply train is empty. Are you sure you want to continue inland emptyhanded?{***}
+mno_cove_leave_land_return|Stay in the cove{***}
+mno_cove_leave_land_leave|Continue inland{***}
+menu_cove|!!!{***}
+menu_abbey_hostile_action|Attacking a mission would severely hurt your relations with traditionally Catholic nations of France and Spain. Are you sure you want to do this?{***}
+mno_abbey_loot|{s0}{***}
+menu_abbey_loot_fail_1|Surprisingly, the nuns managed to fight you off. In their infinite kindness, they let you go, humiliated but free.{***}
+menu_abbey_loot_win_1|You have slaughtered the nuns and set the mission aflame. A quick search of its stores produces some goods they have prepared for the market. You could spend more time searching the mission vaults, but smoke can attract the attention of catholic garrisons nearby...{***}
+mno_abbey_loot_2|Keep plundering{***}
+menu_abbey_loot_more_succes|You have overturned the mission inside out, looting everything of value.{***}
+menu_abbey_loot_more_fail|While you were busy plundering the mission, detachment of soldiers from a nearby garrison arrives to investigate the disturbances!{***}
+mno_abbey_attack_reinforcements|To arms!{***}
+menu_abbey_loot_win_2|You have dispersed the soldiers and went back to pillaging. Soon, the mission was stripped of everything valuable.{***}
+menu_abbey_loot_fail_2|The soldiers rout your party and shackle the survivors. After a few days in dank prison, you found yourself sold into a life of hard labor...{***}
+menu_lq_mission_ext|{s50}{***}
+menu_start_game_2|Choose your starting background and difficulty level:{***}
+mno_start_femadventurer|Daring adventurer (easy warrior){***}
+mno_start_femmerchant|Rich heiress (easy merchant){***}
+mno_start_fempirate|Pirate's daughter (medium){***}
+mno_start_femservant|Indentured servant (hard){***}
+menu_brothel_protection_fight_init|Not shown{***}
+menu_brothel_room_init|Not shown{***}
+menu_empty_menu_0415|Invalid{***}
+menu_brothel_protection_fight_won|Not shown{***}
+menu_captain_meeting_init|Your captains and governors have answered your summons, and soon enough joined you for the council.{***}
+mno_next|Continue...{***}
+menu_scn_conversation|Nothing{***}
+menu_mine_release|{s2}{***}
+mno_mine_release_continue|Continue...{***}
+menu_mine_audience|{s2}{***}
+mno_mine_audience_continue|Continue...{***}
+menu_quest_battle_init|Not shown{***}
+menu_doughter_quest_battle_begin|As you walk down the streets of {s10}, you spot a group of men making their way to the city gates and dragging along a tied up girl. They must be the thugs {s11} asked you to intercept.{***}
+menu_empty_menu_0423|Invalid{***}
+menu_empty_menu_0424|Invalid{***}
+menu_empty_menu_0425|Invalid{***}
+menu_empty_menu_0426|Invalid{***}
+menu_empty_menu_0427|Invalid{***}
+menu_empty_menu_0428|Invalid{***}
+menu_empty_menu_0429|Invalid{***}
+menu_empty_menu_0430|Invalid{***}
+menu_empty_menu_0431|Invalid{***}
+menu_empty_menu_0432|Invalid{***}
+menu_empty_menu_0433|Invalid{***}
+menu_empty_menu_0434|Invalid{***}
+menu_empty_menu_0435|Invalid{***}
+menu_empty_menu_0436|Invalid{***}
+menu_empty_menu_0437|Invalid{***}
+menu_empty_menu_0438|Invalid{***}
+menu_empty_menu_0439|Invalid{***}
+menu_empty_menu_0440|Invalid{***}
+menu_empty_menu_0441|Invalid{***}
+menu_empty_menu_0442|Invalid{***}
+menu_empty_menu_0443|Invalid{***}
+menu_empty_menu_0444|Invalid{***}
+menu_empty_menu_0445|Invalid{***}
+menu_empty_menu_0446|Invalid{***}
+menu_empty_menu_0447|Invalid{***}
+menu_empty_menu_0448|Invalid{***}
+menu_empty_menu_0449|Invalid{***}
+menu_empty_menu_0450|Invalid{***}
+menu_empty_menu_0451|Invalid{***}
+menu_empty_menu_0452|Invalid{***}
+menu_empty_menu_0453|Invalid{***}
+menu_empty_menu_0454|Invalid{***}
+menu_empty_menu_0455|Invalid{***}
+menu_empty_menu_0456|Invalid{***}
+menu_empty_menu_0457|Invalid{***}
+menu_empty_menu_0458|Invalid{***}
+menu_empty_menu_0459|Invalid{***}
+menu_empty_menu_0460|Invalid{***}
+menu_empty_menu_0461|Invalid{***}
+menu_empty_menu_0462|Invalid{***}
+menu_empty_menu_0463|Invalid{***}
+menu_empty_menu_0464|Invalid{***}
+menu_empty_menu_0465|Invalid{***}
+menu_empty_menu_0466|Invalid{***}
+menu_empty_menu_0467|Invalid{***}
+menu_empty_menu_0468|Invalid{***}
+menu_empty_menu_0469|Invalid{***}
+menu_empty_menu_0470|Invalid{***}
+menu_empty_menu_0471|Invalid{***}
+menu_empty_menu_0472|Invalid{***}
+menu_empty_menu_0473|Invalid{***}
+menu_empty_menu_0474|Invalid{***}
+menu_empty_menu_0475|Invalid{***}
+menu_empty_menu_0476|Invalid{***}
+menu_empty_menu_0477|Invalid{***}
+menu_empty_menu_0478|Invalid{***}
+menu_empty_menu_0479|Invalid{***}
+menu_empty_menu_0480|Invalid{***}
+menu_empty_menu_0481|Invalid{***}
+menu_empty_menu_0482|Invalid{***}
+menu_empty_menu_0483|Invalid{***}
+menu_empty_menu_0484|Invalid{***}
+menu_empty_menu_0485|Invalid{***}
+menu_empty_menu_0486|Invalid{***}
+menu_empty_menu_0487|Invalid{***}
+menu_empty_menu_0488|Invalid{***}
+menu_empty_menu_0489|Invalid{***}
+menu_empty_menu_0490|Invalid{***}
+menu_empty_menu_0491|Invalid{***}
+menu_empty_menu_0492|Invalid{***}
+menu_empty_menu_0493|Invalid{***}
+menu_empty_menu_0494|Invalid{***}
+menu_empty_menu_0495|Invalid{***}
+menu_empty_menu_0496|Invalid{***}
+menu_empty_menu_0497|Invalid{***}
+menu_empty_menu_0498|Invalid{***}
+menu_empty_menu_0499|Invalid{***}
+menu_notification_new_ladies_meeting|{s0} wants to see you as soon as possible.{***}
+menu_empty_menu_0501|Invalid{***}
+menu_empty_menu_0502|Invalid{***}
+menu_empty_menu_0503|Invalid{***}
+menu_empty_menu_0504|Invalid{***}
+menu_empty_menu_0505|Invalid{***}
+menu_empty_menu_0506|Invalid{***}
+menu_empty_menu_0507|Invalid{***}
+menu_empty_menu_0508|Invalid{***}
+menu_empty_menu_0509|Invalid{***}
+menu_empty_menu_0510|Invalid{***}
+menu_empty_menu_0511|Invalid{***}
+menu_empty_menu_0512|Invalid{***}
+menu_empty_menu_0513|Invalid{***}
+menu_empty_menu_0514|Invalid{***}
+menu_empty_menu_0515|Invalid{***}
+menu_empty_menu_0516|Invalid{***}
+menu_empty_menu_0517|Invalid{***}
+menu_empty_menu_0518|Invalid{***}
+menu_empty_menu_0519|Invalid{***}
+menu_empty_menu_0520|Invalid{***}
+menu_empty_menu_0521|Invalid{***}
+menu_empty_menu_0522|Invalid{***}
+menu_empty_menu_0523|Invalid{***}
+menu_empty_menu_0524|Invalid{***}
+menu_empty_menu_0525|Invalid{***}
+menu_empty_menu_0526|Invalid{***}
+menu_empty_menu_0527|Invalid{***}
+menu_empty_menu_0528|Invalid{***}
+menu_empty_menu_0529|Invalid{***}
+menu_empty_menu_0530|Invalid{***}
+menu_empty_menu_0531|Invalid{***}
+menu_empty_menu_0532|Invalid{***}
+menu_empty_menu_0533|Invalid{***}
+menu_empty_menu_0534|Invalid{***}
+menu_empty_menu_0535|Invalid{***}
+menu_empty_menu_0536|Invalid{***}
+menu_empty_menu_0537|Invalid{***}
+menu_empty_menu_0538|Invalid{***}
+menu_empty_menu_0539|Invalid{***}
+menu_empty_menu_0540|Invalid{***}
+menu_empty_menu_0541|Invalid{***}
+menu_empty_menu_0542|Invalid{***}
+menu_empty_menu_0543|Invalid{***}
+menu_empty_menu_0544|Invalid{***}
+menu_empty_menu_0545|Invalid{***}
+menu_empty_menu_0546|Invalid{***}
+menu_empty_menu_0547|Invalid{***}
+menu_empty_menu_0548|Invalid{***}
+menu_empty_menu_0549|Invalid{***}
+menu_empty_menu_0550|Invalid{***}
+menu_empty_menu_0551|Invalid{***}
+menu_empty_menu_0552|Invalid{***}
+menu_empty_menu_0553|Invalid{***}
+menu_empty_menu_0554|Invalid{***}
+menu_empty_menu_0555|Invalid{***}
+menu_empty_menu_0556|Invalid{***}
+menu_empty_menu_0557|Invalid{***}
+menu_empty_menu_0558|Invalid{***}
+menu_empty_menu_0559|Invalid{***}
+menu_empty_menu_0560|Invalid{***}
+menu_empty_menu_0561|Invalid{***}
+menu_empty_menu_0562|Invalid{***}
+menu_empty_menu_0563|Invalid{***}
+menu_empty_menu_0564|Invalid{***}
+menu_empty_menu_0565|Invalid{***}
+menu_empty_menu_0566|Invalid{***}
+menu_empty_menu_0567|Invalid{***}
+menu_empty_menu_0568|Invalid{***}
+menu_empty_menu_0569|Invalid{***}
+menu_empty_menu_0570|Invalid{***}
+menu_empty_menu_0571|Invalid{***}
+menu_empty_menu_0572|Invalid{***}
+menu_empty_menu_0573|Invalid{***}
+menu_empty_menu_0574|Invalid{***}
+menu_empty_menu_0575|Invalid{***}
+menu_empty_menu_0576|Invalid{***}
+menu_empty_menu_0577|Invalid{***}
+menu_empty_menu_0578|Invalid{***}
+menu_empty_menu_0579|Invalid{***}
+menu_empty_menu_0580|Invalid{***}
+menu_empty_menu_0581|Invalid{***}
+menu_empty_menu_0582|Invalid{***}
+menu_empty_menu_0583|Invalid{***}
+menu_empty_menu_0584|Invalid{***}
+menu_empty_menu_0585|Invalid{***}
+menu_empty_menu_0586|Invalid{***}
+menu_empty_menu_0587|Invalid{***}
+menu_empty_menu_0588|Invalid{***}
+menu_empty_menu_0589|Invalid{***}
+menu_empty_menu_0590|Invalid{***}
+menu_empty_menu_0591|Invalid{***}
+menu_empty_menu_0592|Invalid{***}
+menu_empty_menu_0593|Invalid{***}
+menu_empty_menu_0594|Invalid{***}
+menu_empty_menu_0595|Invalid{***}
+menu_empty_menu_0596|Invalid{***}
+menu_empty_menu_0597|Invalid{***}
+menu_empty_menu_0598|Invalid{***}
+menu_empty_menu_0599|Invalid{***}
+menu_choose_scenes_0|Choose a scene: (Page 1 of 18){***}
+mno_back|Go back.{***}
+mno_choose_scene_0|0 quest mission test: generate{***}
+mno_choose_scene_1|0 temp camp: generate{***}
+mno_choose_scene_2|0 test trees: generate{***}
+mno_choose_scene_3| city  shipyard: generate{***}
+mno_choose_scene_4|brit josef mainmenu: generate{***}
+mno_choose_scene_5|caribbean abbey: generate{***}
+mno_choose_scene_6|caribbean artillery battery: generate{***}
+mno_choose_scene_7|caribbean attack chapel: generate{***}
+mno_choose_scene_8|caribbean attack marsh: generate{***}
+mno_choose_scene_9|caribbean attack quarry: generate{***}
+mno_choose_scene_10|caribbean attack shipwreck: generate{***}
+mno_choose_scene_11|caribbean cabin: generate{***}
+mno_choose_scene_12|caribbean city 02: generate{***}
+menu_choose_scenes_13|Choose a scene: (Page 2 of 18){***}
+mno_previous|Previous...{***}
+mno_choose_scene_13|caribbean city street harbor: generate{***}
+mno_choose_scene_14|caribbean escape mine: indoors|generate{***}
+mno_choose_scene_15|caribbean escape pit: generate{***}
+mno_choose_scene_16|caribbean escape quarry: generate{***}
+mno_choose_scene_17|caribbean escape sawmill: generate{***}
+mno_choose_scene_18|caribbean fantasy land: generate{***}
+mno_choose_scene_19|caribbean fleet camp: generate{***}
+mno_choose_scene_20|caribbean fort hill 01: generate{***}
+mno_choose_scene_21|caribbean hobo tent: generate{***}
+mno_choose_scene_22|caribbean interior church: indoors{***}
+mno_choose_scene_23|caribbean large camp: generate{***}
+mno_choose_scene_24|caribbean mansion: generate{***}
+mno_choose_scene_25|caribbean medium camp: generate{***}
+menu_choose_scenes_26|Choose a scene: (Page 3 of 18){***}
+mno_choose_scene_26|caribbean plantation cocoa: generate{***}
+mno_choose_scene_27|caribbean plantation coffee: generate{***}
+mno_choose_scene_28|caribbean plantation corn: generate{***}
+mno_choose_scene_29|caribbean plantation cotton: generate{***}
+mno_choose_scene_30|caribbean plantation sugarcane: generate{***}
+mno_choose_scene_31|caribbean quest dungeon: indoors|generate{***}
+mno_choose_scene_32|caribbean siege 01: generate{***}
+mno_choose_scene_33|caribbean siege 02: generate{***}
+mno_choose_scene_34|caribbean small camp: generate{***}
+mno_choose_scene_35|caribbean tavern 01: generate{***}
+mno_choose_scene_36|caribbean tavern 02: generate{***}
+mno_choose_scene_37|caribbean tavern dm: generate{***}
+mno_choose_scene_38|caribbean townhall: generate{***}
+menu_choose_scenes_39|Choose a scene: (Page 4 of 18){***}
+mno_choose_scene_39|caribbean tribes city 01: generate{***}
+mno_choose_scene_40|caribbean tribes city 02: generate{***}
+mno_choose_scene_41|caribbean tribes city 03: generate{***}
+mno_choose_scene_42|caribbean tribes city 04: generate{***}
+mno_choose_scene_43|caribbean tribes city 05: generate{***}
+mno_choose_scene_44|carribean city 01: generate{***}
+mno_choose_scene_45|conversation scene: generate{***}
+mno_choose_scene_46|dhorak keep: generate{***}
+mno_choose_scene_47|four ways inn: generate{***}
+mno_choose_scene_48|ground assault stone wg large: generate{***}
+mno_choose_scene_49|ground assault wooden ng large: generate{***}
+mno_choose_scene_50|ground assault wooden ng small: generate{***}
+mno_choose_scene_51|ground assault wooden wg large: generate{***}
+menu_choose_scenes_52|Choose a scene: (Page 5 of 18){***}
+mno_choose_scene_52|ground assault wooden wg small: generate{***}
+mno_choose_scene_53|killer room scene: generate{***}
+mno_choose_scene_54|meeting scene plain: generate{***}
+mno_choose_scene_55|meeting scene plain forest: generate{***}
+mno_choose_scene_56|mercs window scene: generate{***}
+mno_choose_scene_57|oim artillery field 1: generate{***}
+mno_choose_scene_58|oim artillery field 2: generate{***}
+mno_choose_scene_59|oim artillery forest 1: generate{***}
+mno_choose_scene_60|oim artillery forest 2: generate{***}
+mno_choose_scene_61|oim artillery hills 1: generate{***}
+mno_choose_scene_62|oim artillery river 1: generate{***}
+mno_choose_scene_63|oim artillery river 2: generate{***}
+mno_choose_scene_64|oim artillery shore 1: generate{***}
+menu_choose_scenes_65|Choose a scene: (Page 6 of 18){***}
+mno_choose_scene_65|oim p frigate assault: generate{***}
+mno_choose_scene_66|oim p frigate large galleon assault: generate{***}
+mno_choose_scene_67|oim p frigate small galleon assault: generate{***}
+mno_choose_scene_68|oim p large galleon assault: generate{***}
+mno_choose_scene_69|oim p large galleon schooner assault: generate{***}
+mno_choose_scene_70|oim p large galleon small galleon assault: generate{***}
+mno_choose_scene_71|oim p scene 001: generate|auto entry points|randomize{***}
+mno_choose_scene_72|oim p scene 003: generate|auto entry points|randomize{***}
+mno_choose_scene_73|oim p scene 004: generate|auto entry points|randomize{***}
+mno_choose_scene_74|oim p scene 005: generate|auto entry points|randomize{***}
+mno_choose_scene_75|oim p scene 006: generate|auto entry points|randomize{***}
+mno_choose_scene_76|oim p scene 007: generate|auto entry points|randomize{***}
+mno_choose_scene_77|oim p scene 008: generate|auto entry points|randomize{***}
+menu_choose_scenes_78|Choose a scene: (Page 7 of 18){***}
+mno_choose_scene_78|oim p scene 009: generate|auto entry points|randomize{***}
+mno_choose_scene_79|oim p scene 010: generate|auto entry points|randomize{***}
+mno_choose_scene_80|oim p scene 011: generate|auto entry points{***}
+mno_choose_scene_81|oim p scene 012: generate|auto entry points{***}
+mno_choose_scene_82|oim p scene 013: generate{***}
+mno_choose_scene_83|oim p scene 014: generate{***}
+mno_choose_scene_84|oim p scene 015: generate{***}
+mno_choose_scene_85|oim p scene 016: generate{***}
+mno_choose_scene_86|oim p scene 017: generate{***}
+mno_choose_scene_87|oim p scene 018: generate{***}
+mno_choose_scene_88|oim p scene 019: generate{***}
+mno_choose_scene_89|oim p scene 020: generate{***}
+mno_choose_scene_90|oim p scene 021: generate{***}
+menu_choose_scenes_91|Choose a scene: (Page 8 of 18){***}
+mno_choose_scene_91|oim p scene 022: indoors{***}
+mno_choose_scene_92|oim p scene 023: generate{***}
+mno_choose_scene_93|oim p scene 024: generate{***}
+mno_choose_scene_94|oim p scene 025: generate{***}
+mno_choose_scene_95|oim p scene 026: generate{***}
+mno_choose_scene_96|oim p scene 027: generate{***}
+mno_choose_scene_97|oim p scene 028: generate{***}
+mno_choose_scene_98|oim p scene 029: indoors{***}
+mno_choose_scene_99|oim p scene 030{***}
+mno_choose_scene_100|oim p scene 031{***}
+mno_choose_scene_101|oim p scene 032: indoors{***}
+mno_choose_scene_102|oim p scene 033: generate{***}
+mno_choose_scene_103|oim p scene 034: indoors{***}
+menu_choose_scenes_104|Choose a scene: (Page 9 of 18){***}
+mno_choose_scene_104|oim p scene 035: indoors{***}
+mno_choose_scene_105|oim p scene 036: generate{***}
+mno_choose_scene_106|oim p scene 037: generate{***}
+mno_choose_scene_107|oim p scene 039: generate{***}
+mno_choose_scene_108|oim p scene 040: generate{***}
+mno_choose_scene_109|oim p scene 041: generate{***}
+mno_choose_scene_110|oim p scene 042: generate{***}
+mno_choose_scene_111|oim p scene 043: generate{***}
+mno_choose_scene_112|oim p scene 044: generate{***}
+mno_choose_scene_113|oim p scene 045: generate{***}
+mno_choose_scene_114|oim p scene 046: generate{***}
+mno_choose_scene_115|oim p scene 047: generate{***}
+mno_choose_scene_116|oim p scene 048: generate{***}
+menu_choose_scenes_117|Choose a scene: (Page 10 of 18){***}
+mno_choose_scene_117|oim p scene 049: generate{***}
+mno_choose_scene_118|oim p scene 050: generate{***}
+mno_choose_scene_119|oim p scene 051: generate{***}
+mno_choose_scene_120|oim p scene 052: generate{***}
+mno_choose_scene_121|oim p scene 053: generate{***}
+mno_choose_scene_122|oim p scene 054: generate{***}
+mno_choose_scene_123|oim p scene 055: generate{***}
+mno_choose_scene_124|oim p scene 056: generate{***}
+mno_choose_scene_125|oim p scene 057: generate{***}
+mno_choose_scene_126|oim p scene 058: generate{***}
+mno_choose_scene_127|oim p scene 059: generate{***}
+mno_choose_scene_128|oim p scene 060: generate{***}
+mno_choose_scene_129|oim p scene 061: generate{***}
+menu_choose_scenes_130|Choose a scene: (Page 11 of 18){***}
+mno_choose_scene_130|oim p scene 062: generate{***}
+mno_choose_scene_131|oim p scene 063: generate{***}
+mno_choose_scene_132|oim p scene 064: generate{***}
+mno_choose_scene_133|oim p scene 065: generate{***}
+mno_choose_scene_134|oim p scene 066: generate{***}
+mno_choose_scene_135|oim p scene 067: generate{***}
+mno_choose_scene_136|oim p scene 068: generate{***}
+mno_choose_scene_137|oim p scene 069: generate{***}
+mno_choose_scene_138|oim p scene 072: generate{***}
+mno_choose_scene_139|oim p scene 073: generate{***}
+mno_choose_scene_140|oim p scene 074: generate{***}
+mno_choose_scene_141|oim p scene 075: generate{***}
+mno_choose_scene_142|oim p scene 076: generate{***}
+menu_choose_scenes_143|Choose a scene: (Page 12 of 18){***}
+mno_choose_scene_143|oim p scene 077: generate{***}
+mno_choose_scene_144|oim p scene 078: generate{***}
+mno_choose_scene_145|oim p scene 079: generate{***}
+mno_choose_scene_146|oim p scene 080: no horses|generate{***}
+mno_choose_scene_147|oim p scene 081: generate{***}
+mno_choose_scene_148|oim p scene 082: generate{***}
+mno_choose_scene_149|oim p scene 083: generate{***}
+mno_choose_scene_150|oim p scene 084: generate{***}
+mno_choose_scene_151|oim p scene 085: generate{***}
+mno_choose_scene_152|oim p scene 086: generate{***}
+mno_choose_scene_153|oim p scene 087: generate{***}
+mno_choose_scene_154|oim p scene 088: generate{***}
+mno_choose_scene_155|oim p scene 090: generate{***}
+menu_choose_scenes_156|Choose a scene: (Page 13 of 18){***}
+mno_choose_scene_156|oim p scene 091: generate{***}
+mno_choose_scene_157|oim p scene 099: generate|auto entry points|randomize{***}
+mno_choose_scene_158|oim p scene 100: generate|auto entry points|randomize{***}
+mno_choose_scene_159|oim p scene 101: generate|auto entry points|randomize{***}
+mno_choose_scene_160|oim p scene 102: generate{***}
+mno_choose_scene_161|oim p scene 103: indoors{***}
+mno_choose_scene_162|oim p scene 104: generate{***}
+mno_choose_scene_163|oim p scene 105: generate{***}
+mno_choose_scene_164|oim p scene 106: generate{***}
+mno_choose_scene_165|oim p scene 107: generate{***}
+mno_choose_scene_166|oim p scene 108: generate{***}
+mno_choose_scene_167|oim p scene 109: generate{***}
+mno_choose_scene_168|oim p scene 110: generate{***}
+menu_choose_scenes_169|Choose a scene: (Page 14 of 18){***}
+mno_choose_scene_169|oim p scene 111: generate|auto entry points|randomize{***}
+mno_choose_scene_170|oim p scene 112: generate{***}
+mno_choose_scene_171|oim p scene 113: generate{***}
+mno_choose_scene_172|oim p scene 114: generate{***}
+mno_choose_scene_173|oim p scene 115: generate{***}
+mno_choose_scene_174|oim p scene 116: generate{***}
+mno_choose_scene_175|oim p scene 123: indoors{***}
+mno_choose_scene_176|oim p scene 124: generate{***}
+mno_choose_scene_177|oim p scene 125: generate{***}
+mno_choose_scene_178|oim p scene 127: generate{***}
+mno_choose_scene_179|oim p scene 128: generate{***}
+mno_choose_scene_180|oim p scene 129: generate{***}
+mno_choose_scene_181|oim p scene 130: generate{***}
+menu_choose_scenes_182|Choose a scene: (Page 15 of 18){***}
+mno_choose_scene_182|oim p scene 132: indoors|force skybox{***}
+mno_choose_scene_183|oim p scene 134: generate{***}
+mno_choose_scene_184|oim p scene 135: generate{***}
+mno_choose_scene_185|oim p scene 137: generate{***}
+mno_choose_scene_186|oim p scene 138: generate{***}
+mno_choose_scene_187|oim p scene 139: generate{***}
+mno_choose_scene_188|oim p scene 147: generate{***}
+mno_choose_scene_189|oim p scene 148: generate{***}
+mno_choose_scene_190|oim p scene 149: generate{***}
+mno_choose_scene_191|oim p scene 150: generate{***}
+mno_choose_scene_192|oim p scene 151: generate{***}
+mno_choose_scene_193|oim p scene 152: generate{***}
+mno_choose_scene_194|oim p scene 156: generate{***}
+menu_choose_scenes_195|Choose a scene: (Page 16 of 18){***}
+mno_choose_scene_195|oim p schooner assault: generate{***}
+mno_choose_scene_196|oim p schooner frigate assault: generate{***}
+mno_choose_scene_197|oim p schooner small galleon assault: generate{***}
+mno_choose_scene_198|oim p shipoftheline assault: generate{***}
+mno_choose_scene_199|oim p shipoftheline frigate assault: generate{***}
+mno_choose_scene_200|oim p shipoftheline large galleon assault: generate{***}
+mno_choose_scene_201|oim p shipoftheline schooner assault: generate{***}
+mno_choose_scene_202|oim p shipoftheline small galleon assault: generate{***}
+mno_choose_scene_203|oim p small galleon assault: generate{***}
+mno_choose_scene_204|oim p village 1: generate{***}
+mno_choose_scene_205|salt mine: generate{***}
+mno_choose_scene_206|sea assault stone wg large: generate{***}
+mno_choose_scene_207|sea assault wooden wg large: generate{***}
+menu_choose_scenes_208|Choose a scene: (Page 17 of 18){***}
+mno_choose_scene_208|sea battle 01: generate{***}
+mno_choose_scene_209|sea conversation lord: generate{***}
+mno_choose_scene_210|sea flat entry points only: generate{***}
+mno_choose_scene_211|ship window scene: generate{***}
+mno_choose_scene_212|the happy boar: generate{***}
+mno_choose_scene_213|town 1 walls: generate{***}
+mno_choose_scene_214|town 1 walls 2: generate{***}
+mno_choose_scene_215|training ground ranged melee 1: indoors{***}
+mno_choose_scene_216|training ground ranged melee 2: generate{***}
+mno_choose_scene_217|training ground ranged melee 3: generate{***}
+mno_choose_scene_218|training ground ranged melee 4: generate{***}
+mno_choose_scene_219|training ground ranged melee 5: generate{***}
+mno_choose_scene_220|zendar arena: indoors{***}
+menu_choose_scenes_221|Choose a scene: (Page 18 of 18){***}
+mno_choose_scene_221|zendar center: indoors{***}
+mno_choose_scene_222|zendar merchant: generate{***}

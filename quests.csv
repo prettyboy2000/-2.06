@@ -1,0 +1,256 @@
+qst_deliver_message|Deliver Message to {s13}{***}
+qst_deliver_message_to_enemy_lord|Deliver Message to {s13}{***}
+qst_raise_troops|Raise {reg1} {s14}{***}
+qst_escort_lady|Escort {s13} to {s14}{***}
+qst_deal_with_bandits_at_lords_village|Save the village of {s15} from pirates{***}
+qst_collect_taxes|Collect taxes from {s3}{***}
+qst_hunt_down_fugitive|Hunt down {s4}{***}
+qst_kill_local_merchant|Assassinate local merchant at {s3}{***}
+qst_bring_back_runaway_serfs|Bring back runaway slaves{***}
+qst_follow_spy|Follow the spy to meeting{***}
+qst_capture_enemy_hero|Capture a noble from {s13}{***}
+qst_lend_companion|Lend {s3} to {s9}{***}
+qst_collect_debt|Collect the debt {s3} owes to {s9}{***}
+qst_incriminate_loyal_commander|Incriminate {s16}, the loyal commander of {s13}{***}
+qst_meet_spy_in_enemy_town|Meet spy in {s13}{***}
+qst_capture_prisoners|Bring {reg1} {s3} prisoners{***}
+qst_lend_surgeon|Lend your surgeon {s3} to {s1}{***}
+qst_follow_army|Follow the army of {s9}{***}
+qst_report_to_army|Report to the admiral, {s13}{***}
+qst_deliver_cattle_to_army|Drive {reg3} heads of cattle to {s13}{***}
+qst_join_siege_with_army|Participate in the siege of {s14}{***}
+qst_screen_army|Screen the advance of the army of {s13}{***}
+qst_scout_waypoints|Scout {s13}, {s14} and {s15}{***}
+qst_rescue_lord_by_replace|Rescue {s13} from {s14}{***}
+qst_deliver_message_to_prisoner_lord|Deliver a message to {s13} at {s14}{***}
+qst_duel_for_lady|Challenge {s13} to duel{***}
+qst_duel_courtship_rival|Challenge {s13} to duel (optional){***}
+qst_duel_avenge_insult|Challenge {s13} to duel{***}
+qst_move_cattle_herd|Drive a herd of cattle to {s13}{***}
+qst_escort_merchant_caravan|Escort a merchant caravan to {s8}{***}
+qst_deliver_wine|Deliver {reg5} units of {s6} to {s4}{***}
+qst_troublesome_bandits|Hunt down pirates{***}
+qst_kidnapped_girl|Ransom the kidnapped woman{***}
+qst_persuade_lords_to_make_peace|Secure the peace{***}
+qst_deal_with_looters|Deal with marauders{***}
+qst_deal_with_night_bandits|Deal with night bandits{***}
+qst_deliver_grain|Bring wheat to {s3}{***}
+qst_deliver_cattle|Deliver {reg5} heads of cattle to {s3}{***}
+qst_train_peasants_against_bandits|Train the peasants of {s13} against the outlaws.{***}
+qst_eliminate_bandits_infesting_village|Save the village of {s7} from marauding outlaws{***}
+qst_visit_lady|Visit lady{***}
+qst_formal_marriage_proposal|Formal marriage proposal{***}
+qst_obtain_liege_blessing|Formal marriage proposal{***}
+qst_wed_betrothed|Wed your betrothed{***}
+qst_wed_betrothed_female|Wed your betrothed{***}
+qst_join_faction|Give oath of service to {s1}{***}
+qst_rebel_against_kingdom|Help {s13} claim his rightful position in {s14}{***}
+qst_consult_with_minister|Consult with minister{***}
+qst_organize_feast|Organize ball{***}
+qst_resolve_dispute|Resolve dispute{***}
+qst_offer_gift|Procure gift{***}
+qst_denounce_lord|Denounce a noble{***}
+qst_intrigue_against_lord|Intrigue against a noble{***}
+qst_track_down_bandits|Track down bandits{***}
+qst_track_down_provocateurs|Track down provocateurs{***}
+qst_retaliate_for_border_incident|Retaliate for a border incident{***}
+qst_raid_caravan_to_start_war|Attack a neutral caravan to provoke war{***}
+qst_cause_provocation|Provoke the enemy faction to declare war{***}
+qst_rescue_prisoner|Rescue or ransom a prisoner{***}
+qst_destroy_bandit_lair|Destroy bandit lair{***}
+qst_collect_men|Recruit five men{***}
+qst_learn_where_merchant_brother_is|Learn where the hostages are held.{***}
+qst_save_relative_of_merchant|Attack the bandit lair{***}
+qst_save_town_from_bandits|Save town from bandits{***}
+qst_oim_deliver_caravan|oim deliver caravan{***}
+qst_oim_deliver_caravan_text|oim deliver caravan{***}
+qst_oim_trade_pantent|oim trade pantent{***}
+qst_oim_trade_pantent_text|oim trade pantent{***}
+qst_oim_hunt_down_thieves|Hunt down thieves{***}
+qst_oim_get_feast_supplies|Get ball supplies{***}
+qst_oim_illness_1|Fever{***}
+qst_oim_illness_1_text|Fever{***}
+qst_oim_illness_2|Scurvy{***}
+qst_oim_illness_2_text|Scurvy{***}
+qst_oim_illness_3|Dropsy{***}
+qst_oim_illness_3_text|Dropsy{***}
+qst_oim_illness_4|Dysentery{***}
+qst_oim_illness_4_text|Dysentery{***}
+qst_oim_illness_5|Scabies{***}
+qst_oim_illness_5_text|Scabies{***}
+qst_letter_of_marque|A Letter of Marque{***}
+qst_old_jorge|Chance meetings{***}
+qst_old_jorge_text|str quest old gorge{***}
+qst_jailed|Jailed!{***}
+qst_hunting_convoy|Hunting the galleon{***}
+qst_new_lady_1_meeting|Meet your lady{***}
+qst_new_lady_2_meeting|Meet your lady{***}
+qst_new_ladies_marry|Marry your lady{***}
+qst_governers_doughter_quest_1|Visit the governor{***}
+qst_save_governers_doughter|A damsel in distress{***}
+qst_quests_end|Quests End{***}
+qst_nq_quest1|{s10}{***}
+qst_nq_quest1_text|{s11}{***}
+qst_nq_quest2|{s10}{***}
+qst_nq_quest2_text|{s11}{***}
+qst_nq_quest3|{s10}{***}
+qst_nq_quest3_text|{s11}{***}
+qst_nq_quest4|{s10}{***}
+qst_nq_quest4_text|{s11}{***}
+qst_nq_quest5|{s10}{***}
+qst_nq_quest5_text|{s11}{***}
+qst_nq_quest6|{s10}{***}
+qst_nq_quest6_text|{s11}{***}
+qst_nq_quest7|{s10}{***}
+qst_nq_quest7_text|{s11}{***}
+qst_nq_quest8|{s10}{***}
+qst_nq_quest8_text|{s11}{***}
+qst_nq_quest9|{s10}{***}
+qst_nq_quest9_text|{s11}{***}
+qst_nq_quest10|{s10}{***}
+qst_nq_quest10_text|{s11}{***}
+qst_nq_quest11|{s10}{***}
+qst_nq_quest11_text|{s11}{***}
+qst_nq_quest12|{s10}{***}
+qst_nq_quest12_text|{s11}{***}
+qst_nq_quest13|{s10}{***}
+qst_nq_quest13_text|{s11}{***}
+qst_nq_quest14|{s10}{***}
+qst_nq_quest14_text|{s11}{***}
+qst_nq_quest15|{s10}{***}
+qst_nq_quest15_text|{s11}{***}
+qst_nq_quest16|{s10}{***}
+qst_nq_quest16_text|{s11}{***}
+qst_nq_quest17|{s10}{***}
+qst_nq_quest17_text|{s11}{***}
+qst_nq_quest18|{s10}{***}
+qst_nq_quest18_text|{s11}{***}
+qst_nq_quest19|{s10}{***}
+qst_nq_quest19_text|{s11}{***}
+qst_nq_quest20|{s10}{***}
+qst_nq_quest20_text|{s11}{***}
+qst_nq_quests_end|new Quests End{***}
+qst_lord_quest_stealth|Triple Murder{***}
+qst_lord_quest_stealth_text|Triple Murder{***}
+qst_lord_quest_fort|Native Resistance{***}
+qst_lord_quest_fort_text|Native Resistance{***}
+qst_lord_quest_art|A Battery in Peril{***}
+qst_lord_quest_art_text|A Battery in Peril{***}
+qst_lord_quest_tribal|Carnival of Slaughter{***}
+qst_lord_quest_tribal_text|Carnival of Slaughter{***}
+qst_lord_quest_treasures|Temple of Destiny{***}
+qst_lord_quest_treasures_text|Temple of Destiny{***}
+qst_lord_quest_fleet|Burning Sails{***}
+qst_lord_quest_fleet_text|Burning Sails{***}
+qst_lord_quest_fleet_p|Firestorm{***}
+qst_lord_quest_fleet_p_text|Firestorm{***}
+qst_lord_quest_rescue|Deliverance{***}
+qst_lord_quest_rescue_text|Deliverance{***}
+qst_lord_quest_01|placeholder{***}
+qst_lord_quest_01_text|placeholder{***}
+qst_lord_quest_02|placeholder{***}
+qst_lord_quest_02_text|placeholder{***}
+qst_lord_quest_03|placeholder{***}
+qst_lord_quest_03_text|placeholder{***}
+qst_lord_quest_04|placeholder{***}
+qst_lord_quest_04_text|placeholder{***}
+qst_lord_quest_05|placeholder{***}
+qst_lord_quest_05_text|placeholder{***}
+qst_lord_quest_06|placeholder{***}
+qst_lord_quest_06_text|placeholder{***}
+qst_lord_quest_07|placeholder{***}
+qst_lord_quest_07_text|placeholder{***}
+qst_lord_quest_08|placeholder{***}
+qst_lord_quest_08_text|placeholder{***}
+qst_lord_quest_09|placeholder{***}
+qst_lord_quest_09_text|placeholder{***}
+qst_lord_quest_10|placeholder{***}
+qst_lord_quest_10_text|placeholder{***}
+qst_lord_quest_11|placeholder{***}
+qst_lord_quest_11_text|placeholder{***}
+qst_lord_quest_12|placeholder{***}
+qst_lord_quest_12_text|placeholder{***}
+qst_lord_quest_13|placeholder{***}
+qst_lord_quest_13_text|placeholder{***}
+qst_lord_quest_14|placeholder{***}
+qst_lord_quest_14_text|placeholder{***}
+qst_lord_quest_15|placeholder{***}
+qst_lord_quest_15_text|placeholder{***}
+qst_lord_quest_16|placeholder{***}
+qst_lord_quest_16_text|placeholder{***}
+qst_lord_quest_17|placeholder{***}
+qst_lord_quest_17_text|placeholder{***}
+qst_lord_quest_18|placeholder{***}
+qst_lord_quest_18_text|placeholder{***}
+qst_lord_quest_19|placeholder{***}
+qst_lord_quest_19_text|placeholder{***}
+qst_lord_quest_20|placeholder{***}
+qst_lord_quest_20_text|placeholder{***}
+qst_lord_quest_21|placeholder{***}
+qst_lord_quest_21_text|placeholder{***}
+qst_lord_quest_22|placeholder{***}
+qst_lord_quest_22_text|placeholder{***}
+qst_lord_quest_23|placeholder{***}
+qst_lord_quest_23_text|placeholder{***}
+qst_lord_quest_24|placeholder{***}
+qst_lord_quest_24_text|placeholder{***}
+qst_lord_quest_25|placeholder{***}
+qst_lord_quest_25_text|placeholder{***}
+qst_lord_quest_26|placeholder{***}
+qst_lord_quest_26_text|placeholder{***}
+qst_lord_quest_27|placeholder{***}
+qst_lord_quest_27_text|placeholder{***}
+qst_lord_quest_28|placeholder{***}
+qst_lord_quest_28_text|placeholder{***}
+qst_lord_quest_29|placeholder{***}
+qst_lord_quest_29_text|placeholder{***}
+qst_lord_quest_30|placeholder{***}
+qst_lord_quest_30_text|placeholder{***}
+qst_lord_quest_31|placeholder{***}
+qst_lord_quest_31_text|placeholder{***}
+qst_lord_quest_32|placeholder{***}
+qst_lord_quest_32_text|placeholder{***}
+qst_lord_quest_33|placeholder{***}
+qst_lord_quest_33_text|placeholder{***}
+qst_lord_quest_34|placeholder{***}
+qst_lord_quest_34_text|placeholder{***}
+qst_lord_quest_35|placeholder{***}
+qst_lord_quest_35_text|placeholder{***}
+qst_lord_quest_36|placeholder{***}
+qst_lord_quest_36_text|placeholder{***}
+qst_lord_quest_37|placeholder{***}
+qst_lord_quest_37_text|placeholder{***}
+qst_lord_quest_38|placeholder{***}
+qst_lord_quest_38_text|placeholder{***}
+qst_lord_quest_39|placeholder{***}
+qst_lord_quest_39_text|placeholder{***}
+qst_lord_quest_40|placeholder{***}
+qst_lord_quest_40_text|placeholder{***}
+qst_lord_quest_41|placeholder{***}
+qst_lord_quest_41_text|placeholder{***}
+qst_sub_treasure_hunt_1|The Sunken Galleon{***}
+qst_sub_treasure_hunt_1_text|str sub treasure hunt 1{***}
+qst_sub_treasure_hunt_2|The Cache of Pizarro{***}
+qst_sub_treasure_hunt_2_text|str sub treasure hunt 2{***}
+qst_sub_treasure_hunt_3|Eldorado{***}
+qst_sub_treasure_hunt_3_text|str sub treasure hunt 3{***}
+qst_sub_treasure_hunt_4|The Scottish Crown{***}
+qst_sub_treasure_hunt_4_text|str sub treasure hunt 4{***}
+qst_sub_treasure_hunt_5|Blood Money{***}
+qst_sub_treasure_hunt_5_text|str sub treasure hunt 5{***}
+qst_sub_treasure_hunt_6|The Ghost Village{***}
+qst_sub_treasure_hunt_6_text|str sub treasure hunt 6{***}
+qst_sub_treasure_hunt_7|The Secrets of the Maya{***}
+qst_sub_treasure_hunt_7_text|str sub treasure hunt 7{***}
+qst_sub_treasure_hunt_8|The Dead Man Chest{***}
+qst_sub_treasure_hunt_8_text|str sub treasure hunt 8{***}
+qst_sub_treasure_hunt_9|The Hetman's Hoard{***}
+qst_sub_treasure_hunt_9_text|str sub treasure hunt 9{***}
+qst_sub_treasure_hunt_10|The Lost Silver Mine{***}
+qst_sub_treasure_hunt_10_text|str sub treasure hunt 10{***}
+qst_sub_treasure_hunt_11|The Price of the Mass{***}
+qst_sub_treasure_hunt_11_text|str sub treasure hunt 11{***}
+qst_sub_treasure_hunt_12|The Templar Treasure{***}
+qst_sub_treasure_hunt_12_text|str sub treasure hunt 12{***}
+qst_main_treasure_hunt|The Fountain of Youth{***}
+qst_main_treasure_hunt_text|str main treasure hunt{***}

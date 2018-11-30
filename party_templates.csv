@@ -1,0 +1,69 @@
+pt_none|none{***}
+pt_rescued_prisoners|Rescued Prisoners{***}
+pt_enemy|Enemy{***}
+pt_hero_party|Hero Party{***}
+pt_village_defenders|Village Defenders{***}
+pt_cattle_herd|Cattle Herd{***}
+pt_looters|Looters{***}
+pt_robbers|Robbers{***}
+pt_french_pirates|Corsairs{***}
+pt_english_pirates|Pirates{***}
+pt_spanish_pirates|Picaroons{***}
+pt_dutch_pirates|Freebooters{***}
+pt_smugglers|Smugglers{***}
+pt_smugglers2|Smugglers{***}
+pt_cuba_bandits|Bandits{***}
+pt_south_am_bandits|Marauders{***}
+pt_central_am_bandits|Desperadoes{***}
+pt_na_natives|Native Hunters{***}
+pt_na_nativeparty|Native War Party{***}
+pt_ca_natives|Native Hunters{***}
+pt_ca_nativeparty|Native War Party{***}
+pt_sa_natives|Native Hunters{***}
+pt_sa_nativeparty|Native War Party{***}
+pt_sa_jaguarparty|Tribal War Party{***}
+pt_sa_jaguars|Tribal Army{***}
+pt_ca_jaguarparty|Tribal War Party{***}
+pt_ca_jaguars|Tribal Army{***}
+pt_deserters|Deserters{***}
+pt_mutineers|Mutineers{***}
+pt_escapees|Escaped Slaves{***}
+pt_merchant_caravan|Merchant Convoy{***}
+pt_troublesome_bandits|Troublesome Bandits{***}
+pt_bandits_awaiting_ransom|Bandits Awaiting Ransom{***}
+pt_kidnapped_girl|Kidnapped Woman{***}
+pt_village_farmers|Village Farmers{***}
+pt_spy_partners|Unremarkable Travellers{***}
+pt_runaway_serfs|Runaway Slaves{***}
+pt_spy|Ordinary Townsman{***}
+pt_sacrificed_messenger|Sacrificed Messenger{***}
+pt_forager_party|Foraging Party{***}
+pt_scout_party|Scouts{***}
+pt_patrol_party|Patrol{***}
+pt_messenger_party|Messenger{***}
+pt_raider_party|Raiders{***}
+pt_raider_captives|Raider Captives{***}
+pt_kingdom_caravan_party|Convoy{***}
+pt_prisoner_train_party|Prisoner Train{***}
+pt_default_prisoners|Default Prisoners{***}
+pt_routed_warriors|Routed Enemies{***}
+pt_center_reinforcements|Reinforcements{***}
+pt_kingdom_hero_party|War Party{***}
+pt_steppe_bandit_lair|Freebooter Camp{***}
+pt_taiga_bandit_lair|Brigand Lair{***}
+pt_desert_bandit_lair|Outlaw Hideout{***}
+pt_forest_bandit_lair|Robber Camp{***}
+pt_mountain_bandit_lair|Pirate Hideout{***}
+pt_sea_raider_lair|Raider Landing{***}
+pt_looter_lair|Kidnappers' Hideout{***}
+pt_leaded_looters|Band of Robbers{***}
+pt_oim_merchant_caravan2|Player Fleet{***}
+pt_village_defenders_fac1|Village Defenders{***}
+pt_village_defenders_fac2|Village Defenders{***}
+pt_village_defenders_fac3|Village Defenders{***}
+pt_village_defenders_fac4|Village Defenders{***}
+pt_village_defenders_fac5|Village Defenders{***}
+pt_dplmc_spouse|Your Spouse{***}
+pt_dplmc_gift_caravan|Your Caravan{***}
+pt_dplmc_recruiter|Recruiter{***}
+pt_oim_temp_party|temp party{***}
